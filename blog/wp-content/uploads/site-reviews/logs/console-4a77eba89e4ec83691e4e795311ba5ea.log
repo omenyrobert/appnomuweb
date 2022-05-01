@@ -1,0 +1,4330 @@
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_3_0_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_4_0_2] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_4_4_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_4_5_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_0_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_2_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_3_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_9_0] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_10_3] has run successfully
+[2021-09-22 20:20:43] DEBUG [Modules\Migrate:152] [Migrate_5_11_0] has run successfully
+[2021-09-22 21:06:53] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: nabiryescovia22@gmail.com
+[2021-09-23 06:57:07] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: softhostings@gmail.com
+[2021-09-23 07:01:58] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: softhostings@gmail.com
+[2021-09-23 07:02:19] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Princerahubahati2@gmail.com
+[2021-09-23 07:07:06] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: appunomu@gmail.com
+[2021-09-29 05:57:44] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: samanyaivan@gmail.com
+[2021-09-29 06:00:43] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: nabiryescovia2@gmail.com
+[2021-10-02 04:34:41] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Nangobipolline@gmail.com
+[2021-10-02 04:39:56] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: marytuhaise@gmail.com
+[2021-10-02 07:31:56] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-10-04 04:18:11] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-10-04 04:18:32] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-10-04 21:47:16] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: atuha@gmail.com
+[2021-10-05 07:46:23] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-10-05 15:25:27] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Hopeforjoychildandwidowcare@gmail.com
+[2021-10-06 06:21:54] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Nangobipolline@gmail.com
+[2021-10-06 06:22:02] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Nangobipollin@gmail.com
+[2021-10-07 10:05:12] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Almareduganda@gmail.com
+[2021-10-08 22:01:42] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: bringcareug@gmail.com
+[2021-10-12 20:04:09] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: hello@hdt-church.online
+[2021-11-09 16:37:50] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: pay.ug@sifthostings.com
+[2021-11-10 04:29:44] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-11-10 04:58:34] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Hopeforjoychildandwidowcare@gmail.com
+[2021-11-10 04:58:44] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: Hopeforjoychildandwidowcar2e@gmail.com
+[2021-11-10 08:19:35] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: sharuwa@gmail.com
+[2021-11-14 20:49:10] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: denisjude01@gmail.com
+[2021-12-22 02:40:11] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-22 02:40:11] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://ghostskiing7.tumblr.com/post/670467390128177152/reklam-filmi-fiyatlar%C4%B1-tan%C4%B1t%C4%B1m-filmi-fiyatlar%C4%B1
+    [email] =&gt; jaredjonathan@inbox.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 146.19.234.35
+    [name] =&gt; Jared
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://ghostskiing7.tumblr.com/post/670467390128177152/reklam-filmi-fiyatlar%C4%B1-tan%C4%B1t%C4%B1m-filmi-fiyatlar%C4%B1
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3f7016d630
+    [_post_id] =&gt; 266
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://ghostskiing7.tumblr.com/post/670467390128177152/reklam-filmi-fiyatlar%C4%B1-tan%C4%B1t%C4%B1m-filmi-fiyatlar%C4%B1
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-25 03:41:04] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-25 03:41:04] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; bertiesaddler@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 162.212.168.76
+    [name] =&gt; Bertie
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-25 05:50:00] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-25 05:50:00] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://askeri-bilgi-kaynaklari.blogspot.com/2021/11/askerlik-ve-askerlik-uygulamalarna-dair.html
+    [email] =&gt; pearlhaszler@googlemail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 146.19.234.35
+    [name] =&gt; Pearl
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://askeri-bilgi-kaynaklari.blogspot.com/2021/11/askerlik-ve-askerlik-uygulamalarna-dair.html
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://askeri-bilgi-kaynaklari.blogspot.com/2021/11/askerlik-ve-askerlik-uygulamalarna-dair.html
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-26 01:31:13] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-26 01:31:13] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://u2beyoung.com/index.php?p=/profile/thumbcanoe33
+    [email] =&gt; xiomaradarrell@allmail.net
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 194.26.207.149
+    [name] =&gt; Xiomara
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://u2beyoung.com/index.php?p=/profile/thumbcanoe33
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://u2beyoung.com/index.php?p=/profile/thumbcanoe33
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-26 11:20:28] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-26 11:20:28] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; harleycrofts@aol.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 107.158.86.127
+    [name] =&gt; Harley
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-27 00:30:25] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-27 00:30:25] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.adeptajans.com/seo-danismanligi-seo-ajansi/
+    [email] =&gt; novella.kovach@aol.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 194.26.207.149
+    [name] =&gt; Novella
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://www.adeptajans.com/seo-danismanligi-seo-ajansi/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.adeptajans.com/seo-danismanligi-seo-ajansi/
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-27 08:02:23] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-27 08:02:23] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/sua-cho-nguoi-tieu-duong
+    [email] =&gt; rustywillis@gawab.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 27.79.239.98
+    [name] =&gt; Rusty
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/sua-cho-nguoi-tieu-duong
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://cuocsongquanhta.webflow.io/posts/sua-cho-nguoi-tieu-duong
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-27 10:28:28] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-27 10:28:28] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; pasqualemenendez@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 107.158.86.127
+    [name] =&gt; Pasquale
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2021-12-28 02:39:45] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2021-12-28 02:39:45] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://free.webcamsexepute.eu/KZ5gw5
+    [email] =&gt; feliciacastello@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 190.210.197.84
+    [name] =&gt; Felicia
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://free.webcamsexepute.eu/KZ5gw5
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1b85715977
+    [_post_id] =&gt; 288
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://free.webcamsexepute.eu/KZ5gw5
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-07 05:37:08] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-07 05:37:08] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://Senang4D.site/
+    [email] =&gt; dwainburrowes@freenet.de
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 202.93.153.249
+    [name] =&gt; Dwain
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://Senang4D.site/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 664f870fde
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://Senang4D.site/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-07 12:54:02] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-07 12:54:02] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-bo-than-trang-duong
+    [email] =&gt; buckwoods@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 27.76.104.47
+    [name] =&gt; Buck
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-bo-than-trang-duong
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 664f870fde
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-bo-than-trang-duong
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-07 15:06:49] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-07 15:06:49] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://landentyiy931.simplesite.com/451401777
+    [email] =&gt; adriene.wertheim@live.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 181.177.84.34
+    [name] =&gt; Adriene
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://landentyiy931.simplesite.com/451401777
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 664f870fde
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://landentyiy931.simplesite.com/451401777
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-08 02:20:00] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-08 02:20:00] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [email] =&gt; garnetfaulk@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 27.76.104.47
+    [name] =&gt; Garnet
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 695abb9e1b
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-09 18:14:00] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-09 18:14:00] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://xn--l3clf0bb4at.xn--o3cw4h/
+    [email] =&gt; yasmin.laura@bigstring.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 147.50.253.94
+    [name] =&gt; Yasmin
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://xn--l3clf0bb4at.xn--o3cw4h/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8c4d33809f
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://xn--l3clf0bb4at.xn--o3cw4h/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-11 12:20:18] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-11 12:20:18] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.bausch.co.nz/en-nz/redirect/?url=https://allpcsoftcrack.co/idm-build-crack/
+    [email] =&gt; berniece_pink@inbox.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 23.104.162.74
+    [name] =&gt; Berniece
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; http://www.bausch.co.nz/en-nz/redirect/?url=https://allpcsoftcrack.co/idm-build-crack/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 025034d733
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://www.bausch.co.nz/en-nz/redirect/?url=https://allpcsoftcrack.co/idm-build-crack/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-14 13:36:45] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-14 13:36:45] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [email] =&gt; lorene_willey@googlemail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 27.79.154.162
+    [name] =&gt; Lorene
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; cd3b6479c9
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-17 00:02:06] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-17 00:02:06] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://wakelet.com/wake/TsOYmKjjZxPVd7l-XqVRT
+    [email] =&gt; anna_comstock@aol.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 45.139.108.38
+    [name] =&gt; Anna
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://wakelet.com/wake/TsOYmKjjZxPVd7l-XqVRT
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 0e19cf2525
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://wakelet.com/wake/TsOYmKjjZxPVd7l-XqVRT
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-18 02:13:56] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-18 02:13:56] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.azg.net.pl
+    [email] =&gt; efrengow@yahoo.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 196.247.162.141
+    [name] =&gt; Efren
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://www.azg.net.pl
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; c42002cffe
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.azg.net.pl
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-18 21:57:39] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-18 21:57:39] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; denishasheehan@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 173.44.222.153
+    [name] =&gt; Denisha
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9990b4d908
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-19 00:31:49] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-19 00:31:49] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; salinawillilams@bigstring.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 172.255.81.150
+    [name] =&gt; Salina
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9990b4d908
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-19 17:19:20] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-19 17:19:20] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://ourfrenchie.com/category/products-and-supplies/
+    [email] =&gt; williemaefarwell@aol.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 104.227.255.33
+    [name] =&gt; Williemae
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://ourfrenchie.com/category/products-and-supplies/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ec5e792d5f
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://ourfrenchie.com/category/products-and-supplies/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-19 17:59:15] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-19 17:59:15] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.azg.net.pl
+    [email] =&gt; edgarforwood@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 165.231.95.152
+    [name] =&gt; Edgar
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://www.azg.net.pl
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ec5e792d5f
+    [_post_id] =&gt; 300
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.azg.net.pl
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-20 07:43:31] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-20 07:43:31] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://movecasino.com/fun88/
+    [email] =&gt; shanicecreech@yahoo.de
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 23.231.15.128
+    [name] =&gt; Shanice
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://movecasino.com/fun88/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; eb89ea9922
+    [_post_id] =&gt; 163
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://movecasino.com/fun88/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-20 10:53:09] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-20 10:53:09] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; valerie_eiffel@live.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 173.44.222.153
+    [name] =&gt; Valerie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; eb89ea9922
+    [_post_id] =&gt; 163
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-20 16:26:39] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-20 16:26:39] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://trade.forexbinaryoptions.in/PnY6C3
+    [email] =&gt; lakeishapaton@aol.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 212.119.45.37
+    [name] =&gt; Lakeisha
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://trade.forexbinaryoptions.in/PnY6C3
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ace76933d8
+    [_post_id] =&gt; 163
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://trade.forexbinaryoptions.in/PnY6C3
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-20 22:33:54] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-20 22:33:54] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/yeu-sinh-ly-o-nu-gioi
+    [email] =&gt; shadtilton@zoho.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 27.73.88.27
+    [name] =&gt; Shad
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/yeu-sinh-ly-o-nu-gioi
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ace76933d8
+    [_post_id] =&gt; 163
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://cuocsongquanhta.webflow.io/posts/yeu-sinh-ly-o-nu-gioi
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-22 00:05:19] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-22 00:05:19] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; theresaogrady@mailcan.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 173.44.222.153
+    [name] =&gt; Theresa
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ac08e38116
+    [_post_id] =&gt; 189
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-22 11:24:45] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-22 11:24:45] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.swissforexbroker.ch/D0qCoL
+    [email] =&gt; jamesclemmer@inbox.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 45.138.100.32
+    [name] =&gt; James
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://go.swissforexbroker.ch/D0qCoL
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; f1a73cf65f
+    [_post_id] =&gt; 206
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://go.swissforexbroker.ch/D0qCoL
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-24 01:58:28] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-24 01:58:28] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://onlinecasinositelive.com
+    [email] =&gt; tarahosburne@web.de
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 198.12.108.203
+    [name] =&gt; Tarah
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://onlinecasinositelive.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 6a0c1a0bbe
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://onlinecasinositelive.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-24 05:31:04] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-24 05:31:04] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.azg.net.pl
+    [email] =&gt; kacey_gayle@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 196.247.162.81
+    [name] =&gt; Kacey
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://www.azg.net.pl
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 166b873277
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.azg.net.pl
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-27 07:48:19] DEBUG [Modules\Validator\ReviewLimitsValidator:76] Email is: catherinerg@gmail.com
+[2022-01-28 02:33:17] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-28 02:33:17] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://online.kreditbank.pw/772qAO
+    [email] =&gt; charlihecht@fmgirl.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 45.148.235.117
+    [name] =&gt; Charli
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://online.kreditbank.pw/772qAO
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 75a978477d
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://online.kreditbank.pw/772qAO
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-28 03:49:08] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-28 03:49:08] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.vegaingenium.it/members/russoburnette14/activity/666462/
+    [email] =&gt; camillatarrant@live.de
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 146.70.57.66
+    [name] =&gt; Camilla
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://www.vegaingenium.it/members/russoburnette14/activity/666462/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9dee63357e
+    [_post_id] =&gt; 3
+    [_referer] =&gt; /privacy-policy/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.vegaingenium.it/members/russoburnette14/activity/666462/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-28 14:04:05] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-28 14:04:05] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://telegra.ph/Server-rental-01-15
+    [email] =&gt; sommer_mackillop@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 212.115.51.199
+    [name] =&gt; Sommer
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://telegra.ph/Server-rental-01-15
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9dee63357e
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://telegra.ph/Server-rental-01-15
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-28 15:24:56] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-28 15:24:56] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://l.betiforex.com/Z0mJtU
+    [email] =&gt; brigidaedinburgh@zoho.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 37.44.253.84
+    [name] =&gt; Brigida
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://l.betiforex.com/Z0mJtU
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 05d0d3cf5e
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://l.betiforex.com/Z0mJtU
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-29 21:39:20] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-29 21:39:20] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://ourfrenchie.com/product-category/summer-products/
+    [email] =&gt; franciscajasper@zoho.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 195.154.51.165
+    [name] =&gt; Francisca
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://ourfrenchie.com/product-category/summer-products/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 384de9204b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://ourfrenchie.com/product-category/summer-products/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-31 03:21:58] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-31 03:21:58] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://link.cryptocurrencys.asia/aVCh28
+    [email] =&gt; marymccarthy@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 217.145.226.164
+    [name] =&gt; Mary
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://link.cryptocurrencys.asia/aVCh28
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 2e3fc1b7c0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://link.cryptocurrencys.asia/aVCh28
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-01-31 20:46:38] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-01-31 20:46:38] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.gaady.com/members/rowlandweiss01/activity/303615/
+    [email] =&gt; micaela_himes@googlemail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 82.102.25.2
+    [name] =&gt; Micaela
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://www.gaady.com/members/rowlandweiss01/activity/303615/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 568e9fb279
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.gaady.com/members/rowlandweiss01/activity/303615/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-01 20:11:23] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-02-01 20:11:23] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://marvelvsdc.faith/wiki/A_General_Guide_to_Home_Equity_Loans
+    [email] =&gt; jerold_haritos@gmail.com
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 37.120.213.190
+    [name] =&gt; Jerold
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://marvelvsdc.faith/wiki/A_General_Guide_to_Home_Equity_Loans
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4597780525
+    [_post_id] =&gt; 3
+    [_referer] =&gt; /privacy-policy/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://marvelvsdc.faith/wiki/A_General_Guide_to_Home_Equity_Loans
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-02 03:39:18] WARNING [Modules\Validator\ValidatorAbstract:69] The Honeypot caught a bad submission.
+[2022-02-02 03:39:18] DEBUG [Modules\Validator\ValidatorAbstract:69] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.transtats.bts.gov/exit.asp?url=https://secretmakings.com/credit-score-for-mortgage-refinance/
+    [email] =&gt; rashadernst@snail-mail.net
+    [form_id] =&gt; glsr_a2f33493
+    [ip_address] =&gt; 68.71.244.14
+    [name] =&gt; Rashad
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://www.transtats.bts.gov/exit.asp?url=https://secretmakings.com/credit-score-for-mortgage-refinance/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; a599bd82e8
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [30f35f23] =&gt; https://www.transtats.bts.gov/exit.asp?url=https://secretmakings.com/credit-score-for-mortgage-refinance/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-02 13:23:04] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-02 13:23:04] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.ted.com/profiles/32766239
+    [email] =&gt; rachellelarkins@aol.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 194.67.214.153
+    [name] =&gt; Rachelle
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://www.ted.com/profiles/32766239
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; a599bd82e8
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://www.ted.com/profiles/32766239
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-03 17:49:24] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-03 17:49:24] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://forex.binaryoptionstrade.club/hHNpTK
+    [email] =&gt; thedalogan@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.246.12
+    [name] =&gt; Theda
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://forex.binaryoptionstrade.club/hHNpTK
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1724425f81
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://forex.binaryoptionstrade.club/hHNpTK
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-04 07:07:51] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-04 07:07:51] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [email] =&gt; carmine_magallon@gawab.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 84.54.58.48
+    [name] =&gt; Carmine
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d80071ae01
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-04 09:52:48] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-04 09:52:48] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://academic-profile.ejust.edu.eg/profile/439846
+    [email] =&gt; florencecable@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 80.243.133.157
+    [name] =&gt; Florence
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://academic-profile.ejust.edu.eg/profile/439846
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d80071ae01
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://academic-profile.ejust.edu.eg/profile/439846
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-06 04:25:50] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-06 04:25:50] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-se-khit-vung-kin
+    [email] =&gt; clairlonsdale@bigstring.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 171.228.52.87
+    [name] =&gt; Clair
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-se-khit-vung-kin
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; dcaec66a5b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-se-khit-vung-kin
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-06 19:34:55] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-06 19:34:55] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [email] =&gt; roxana.goldfarb@googlemail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 171.228.52.87
+    [name] =&gt; Roxana
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; b842a890f8
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-07 16:06:28] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-07 16:06:28] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [email] =&gt; saramoulden@mailingaddress.org
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 171.228.52.87
+    [name] =&gt; Sara
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; b0b778b102
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-08 05:51:46] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-08 05:51:46] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [email] =&gt; jacques_kopsen@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 171.228.52.87
+    [name] =&gt; Jacques
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 1779333bc5
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-10 02:05:48] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-10 02:05:48] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://andbenzhub.com
+    [email] =&gt; amee_harbison@yahoo.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 23.90.30.228
+    [name] =&gt; Amee
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://andbenzhub.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d55d74ea59
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://andbenzhub.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-10 02:12:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-10 02:12:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://wimbi.wiki/index.php?title=User:UBWLavina0967616
+    [email] =&gt; rozellabosanquet@snail-mail.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 46.105.87.167
+    [name] =&gt; Rozella
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://wimbi.wiki/index.php?title=User:UBWLavina0967616
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d55d74ea59
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://wimbi.wiki/index.php?title=User:UBWLavina0967616
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-12 01:16:26] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-12 01:16:26] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://sexcamgirliescom.chaturbate.com/
+    [email] =&gt; weldonchumley@fastemail.us
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.250.45.195
+    [name] =&gt; Weldon
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://sexcamgirliescom.chaturbate.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5c828760a7
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://sexcamgirliescom.chaturbate.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-12 17:17:34] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-12 17:17:34] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://majorcc.at
+    [email] =&gt; janis_mcgavin@aol.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 147.78.141.115
+    [name] =&gt; Janis
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://majorcc.at
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 2d4c0ccf90
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://majorcc.at
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-13 00:10:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-13 00:10:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-deutsch.uno/4uwkXP
+    [email] =&gt; malcolmfrodsham@animail.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 212.60.21.18
+    [name] =&gt; Malcolm
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-deutsch.uno/4uwkXP
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 2d4c0ccf90
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-deutsch.uno/4uwkXP
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-13 13:50:46] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-13 13:50:46] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://telegra.ph/Server-rental-01-15
+    [email] =&gt; franklinegge@moose-mail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.61.219.180
+    [name] =&gt; Franklin
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://telegra.ph/Server-rental-01-15
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ff6bca9789
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://telegra.ph/Server-rental-01-15
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-13 17:04:41] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-13 17:04:41] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://secure.binarycent.com/tiny/6JBsS
+    [email] =&gt; rosemarywilsmore@hotmail.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 84.54.58.223
+    [name] =&gt; Rosemary
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://secure.binarycent.com/tiny/6JBsS
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 67099f1219
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://secure.binarycent.com/tiny/6JBsS
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-13 23:47:08] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-13 23:47:08] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://forex.binaryoptionstrade.club/q8s4z1
+    [email] =&gt; amandaswinford@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 77.243.91.175
+    [name] =&gt; Amanda
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://forex.binaryoptionstrade.club/q8s4z1
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 67099f1219
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://forex.binaryoptionstrade.club/q8s4z1
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-14 04:27:44] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-14 04:27:44] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [email] =&gt; luzvaude@moose-mail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 178.20.31.60
+    [name] =&gt; Luz
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 67b9cc3ffd
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://forex.binaryoptionstrade.club/olUhvv
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-14 09:58:48] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-14 09:58:48] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [email] =&gt; frank_stopford@live.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Frank
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 67b9cc3ffd
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-14 22:56:43] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-14 22:56:43] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [email] =&gt; rickeywhitacre@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Rickey
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5f200c215f
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/trang-d-1635825896a.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-15 19:05:43] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-15 19:05:43] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [email] =&gt; corey.darbonne@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Corey
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 7ac9ee6349
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-16 21:12:41] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-16 21:12:41] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://webcams.pornfree.pw/xEpwKl
+    [email] =&gt; jeralddixon@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 5.183.255.98
+    [name] =&gt; Jerald
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://webcams.pornfree.pw/xEpwKl
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5d081ad990
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://webcams.pornfree.pw/xEpwKl
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 03:07:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 03:07:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.geneuktxxx.nl/0vTVbi
+    [email] =&gt; cecile_falk@yahoo.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 193.151.189.125
+    [name] =&gt; Cecile
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://go.geneuktxxx.nl/0vTVbi
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.geneuktxxx.nl/0vTVbi
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 04:14:43] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 04:14:43] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.gigaporn.eu/ssAFet
+    [email] =&gt; blainemorrissey@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.148.233.110
+    [name] =&gt; Blaine
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://go.gigaporn.eu/ssAFet
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.gigaporn.eu/ssAFet
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 05:59:43] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 05:59:43] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [email] =&gt; riley.harrill@yahoo.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 88.218.47.197
+    [name] =&gt; Riley
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 06:35:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 06:35:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://freewebcams.hamsterporn.eu/VDU9TY
+    [email] =&gt; anniscarnahan@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.148.124.243
+    [name] =&gt; Annis
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://freewebcams.hamsterporn.eu/VDU9TY
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://freewebcams.hamsterporn.eu/VDU9TY
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 09:12:15] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 09:12:15] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [email] =&gt; val_vanderbilt@gawab.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Val
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 13:23:05] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 13:23:05] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://freewebcams.hamsterporn.eu/coe0PP
+    [email] =&gt; darlaheitmann@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 194.156.125.246
+    [name] =&gt; Darla
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://freewebcams.hamsterporn.eu/coe0PP
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d89dc49a60
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://freewebcams.hamsterporn.eu/coe0PP
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 16:42:40] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 16:42:40] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.baptist2baptist.net/redirect.asp?url=http://feelwind.jp/bbs/yybbs.cgi
+    [email] =&gt; daledudley@gmx.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 89.191.226.109
+    [name] =&gt; Dale
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://www.baptist2baptist.net/redirect.asp?url=http://feelwind.jp/bbs/yybbs.cgi
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; bcabcda09a
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://www.baptist2baptist.net/redirect.asp?url=http://feelwind.jp/bbs/yybbs.cgi
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 16:42:58] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 16:42:58] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.gmwebsite.com/web/redirect.asp?url=http://hamas.opoint.com/%3Furl=http://www5f.biglobe.ne.jp/~hokuto_hinata_itou_obi/Lapin/yybbs/yybbs.cgi
+    [email] =&gt; denicewheatley@yahoo.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 46.161.60.19
+    [name] =&gt; Denice
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://www.gmwebsite.com/web/redirect.asp?url=http://hamas.opoint.com/%3Furl=http://www5f.biglobe.ne.jp/~hokuto_hinata_itou_obi/Lapin/yybbs/yybbs.cgi
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; bcabcda09a
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://www.gmwebsite.com/web/redirect.asp?url=http://hamas.opoint.com/%3Furl=http://www5f.biglobe.ne.jp/~hokuto_hinata_itou_obi/Lapin/yybbs/yybbs.cgi
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 17:39:48] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 17:39:48] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [email] =&gt; susanbonet@inbox.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Susan
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; bcabcda09a
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-chong-lao-hoa
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-17 18:46:16] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-17 18:46:16] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.geneuktxxx.nl/mjwpbN
+    [email] =&gt; audreyaslatt@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.80.105.54
+    [name] =&gt; Audrey
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.geneuktxxx.nl/mjwpbN
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; bcabcda09a
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.geneuktxxx.nl/mjwpbN
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 04:38:48] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 04:38:48] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.gigaporn.eu/O1cr2q
+    [email] =&gt; grettaworthington@inbox.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 88.218.45.103
+    [name] =&gt; Gretta
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://go.gigaporn.eu/O1cr2q
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 13e89c19e0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.gigaporn.eu/O1cr2q
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 05:08:10] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 05:08:10] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.geneuktxxx.nl/PZ1S0o
+    [email] =&gt; dianaschulz@gmx.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 83.171.253.186
+    [name] =&gt; Diana
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.geneuktxxx.nl/PZ1S0o
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 13e89c19e0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.geneuktxxx.nl/PZ1S0o
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 05:36:56] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 05:36:56] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.geneuktxxx.nl/Q0TYS4
+    [email] =&gt; loganmcgehee@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 5.183.255.220
+    [name] =&gt; Logan
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.geneuktxxx.nl/Q0TYS4
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 13e89c19e0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.geneuktxxx.nl/Q0TYS4
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 06:06:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 06:06:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://168.232.50.40/mediawiki/index.php/Usuario:ElbaMerry570
+    [email] =&gt; roman_ackermann@gmx.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 83.171.252.101
+    [name] =&gt; Roman
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://168.232.50.40/mediawiki/index.php/Usuario:ElbaMerry570
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 13e89c19e0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://168.232.50.40/mediawiki/index.php/Usuario:ElbaMerry570
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 08:11:07] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 08:11:07] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.gigaporn.eu/dE3neG
+    [email] =&gt; andreas.thompson@inbox.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.185.227
+    [name] =&gt; Andreas
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.gigaporn.eu/dE3neG
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 13e89c19e0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.gigaporn.eu/dE3neG
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-18 17:53:32] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-18 17:53:32] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [email] =&gt; archiereymond@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 178.20.29.249
+    [name] =&gt; Archie
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 666c868063
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://webcams.xxxadultwebcams.eu/IHn6Oj
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-19 04:13:06] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-19 04:13:06] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.gigaporn.eu/GUSV4G
+    [email] =&gt; noah_tuttle@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 88.218.47.138
+    [name] =&gt; Noah
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://go.gigaporn.eu/GUSV4G
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ee26a5d9bc
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.gigaporn.eu/GUSV4G
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-19 13:12:38] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-19 13:12:38] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [email] =&gt; kristimurillo@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Kristi
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ee26a5d9bc
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-19 14:14:17] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-19 14:14:17] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [email] =&gt; denispennell@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Denis
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; ee26a5d9bc
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-19 15:13:09] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-19 15:13:09] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/bo-than-cong-doa-1635825731n.htm
+    [email] =&gt; dyan.nibbi@hotmail.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Dyan
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/bo-than-cong-doa-1635825731n.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 0da5208951
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/bo-than-cong-doa-1635825731n.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-19 18:32:49] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-19 18:32:49] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [email] =&gt; genevajull@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Geneva
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 0da5208951
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-20 08:08:51] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-20 08:08:51] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://forex.pm
+    [email] =&gt; brandonstrouse@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.138.100.86
+    [name] =&gt; Brandon
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; http://forex.pm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; c2451c9793
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://forex.pm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-20 12:57:40] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-20 12:57:40] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://learnmed.stanford.edu/eportfolios/705/kahesh_vazn
+    [email] =&gt; damaristiffany@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 65.108.18.155
+    [name] =&gt; Damaris
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://learnmed.stanford.edu/eportfolios/705/kahesh_vazn
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; c2451c9793
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://learnmed.stanford.edu/eportfolios/705/kahesh_vazn
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-20 16:13:08] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-20 16:13:08] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.geneuktxxx.nl/cemyIC
+    [email] =&gt; dianejarman@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.233.187.186
+    [name] =&gt; Diane
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.geneuktxxx.nl/cemyIC
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d46c8b08bf
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.geneuktxxx.nl/cemyIC
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-21 00:14:27] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-21 00:14:27] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [email] =&gt; carymontefiore@web.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Cary
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d46c8b08bf
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-21 06:01:21] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-21 06:01:21] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [email] =&gt; laurelbalsillie@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Laurel
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; bc581d113e
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-chong-xuat-tinh-som
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-22 03:35:49] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-22 03:35:49] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://freewebcams.pornooverzicht.eu/c36NoR
+    [email] =&gt; marylinbarraza@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 31.40.249.32
+    [name] =&gt; Marylin
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://freewebcams.pornooverzicht.eu/c36NoR
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 63d6d05e76
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://freewebcams.pornooverzicht.eu/c36NoR
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-24 18:52:13] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-24 18:52:13] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [email] =&gt; jacquelyn.baum@yahoo.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Jacquelyn
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; f1bfe0a450
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-24 19:01:53] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-24 19:01:53] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [email] =&gt; sunglaseron@gmx.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Sung
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; f1bfe0a450
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-24 20:21:33] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-24 20:21:33] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [email] =&gt; evapreece@mailhaven.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Eva
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; f1bfe0a450
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/can-bang-noi-tiet-to-nu
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-25 08:44:16] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-25 08:44:16] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [email] =&gt; abbieshillito@yahoo.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Abbie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; afdb39f7c0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-trao-nguoc-da-day
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-26 00:21:32] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-26 00:21:32] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://webcams.xxxadultwebcams.eu/hyZSIc
+    [email] =&gt; allenmarcello@yahoo.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 91.222.236.141
+    [name] =&gt; Allen
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://webcams.xxxadultwebcams.eu/hyZSIc
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 274f464667
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://webcams.xxxadultwebcams.eu/hyZSIc
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-26 07:48:38] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-26 07:48:38] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.freeadvertising.space/shared-apartments-rooms/martingale-betting-strategy-in-binary-options-trading-on-martingale-method.html
+    [email] =&gt; virgieingham@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 194.156.125.128
+    [name] =&gt; Virgie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://www.freeadvertising.space/shared-apartments-rooms/martingale-betting-strategy-in-binary-options-trading-on-martingale-method.html
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; e95d587b7f
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://www.freeadvertising.space/shared-apartments-rooms/martingale-betting-strategy-in-binary-options-trading-on-martingale-method.html
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-27 00:44:32] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-27 00:44:32] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://starmoon.us/fiverr-clone/
+    [email] =&gt; mickiescarberry@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 1.186.220.25
+    [name] =&gt; Mickie
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://starmoon.us/fiverr-clone/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 180ef9c19f
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://starmoon.us/fiverr-clone/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-27 14:38:05] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-27 14:38:05] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://freewebcams.pornooverzicht.eu/9aryIy
+    [email] =&gt; rolandburnside@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 37.44.253.50
+    [name] =&gt; Roland
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://freewebcams.pornooverzicht.eu/9aryIy
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3609b3d1a6
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://freewebcams.pornooverzicht.eu/9aryIy
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-28 17:38:02] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-28 17:38:02] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://starmoon.us/fiverr-clone/
+    [email] =&gt; sabineoman@wildmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 138.91.240.68
+    [name] =&gt; Sabine
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://starmoon.us/fiverr-clone/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 20ea46ac7c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://starmoon.us/fiverr-clone/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-02-28 21:39:14] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-02-28 21:39:14] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [email] =&gt; kathybeaudoin@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Kathy
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 20ea46ac7c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-01 05:47:39] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-01 05:47:39] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-hoi-mieng
+    [email] =&gt; lilia_sacco@googlemail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Lilia
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-hoi-mieng
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; af37b4159b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-hoi-mieng
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-01 09:28:45] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-01 09:28:45] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://www.johnsonclassifieds.com/user/profile/2585856
+    [email] =&gt; jaquelinecambage@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 94.54.248.19
+    [name] =&gt; Jaqueline
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://www.johnsonclassifieds.com/user/profile/2585856
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; af37b4159b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://www.johnsonclassifieds.com/user/profile/2585856
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-01 21:00:29] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-01 21:00:29] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://webcams.pornfree.pw/aCfILB
+    [email] =&gt; christypascal@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 141.98.87.192
+    [name] =&gt; Christy
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://webcams.pornfree.pw/aCfILB
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; f0c3a5ba73
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://webcams.pornfree.pw/aCfILB
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-02 04:23:41] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-02 04:23:41] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-duong-mat
+    [email] =&gt; rockybrodzky@mailingaddress.org
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Rocky
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-duong-mat
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 46074c8be9
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/kem-duong-mat
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-03 06:35:33] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-03 06:35:33] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [email] =&gt; keenanmchugh@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Keenan
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; acdc6dc541
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/lao-ho-1635826135a.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-03 08:54:20] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-03 08:54:20] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://Linktr.ee/wenxuanw278
+    [email] =&gt; clairlopes@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 64.64.242.81
+    [name] =&gt; Clair
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://Linktr.ee/wenxuanw278
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; acdc6dc541
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://Linktr.ee/wenxuanw278
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-03 16:39:30] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-03 16:39:30] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-seo
+    [email] =&gt; raymonlawley@gmx.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Raymon
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-seo
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; b39234e8b5
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-seo
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-05 15:09:59] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-05 15:09:59] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://vocalviews.com
+    [email] =&gt; cathryncary@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 209.127.117.75
+    [name] =&gt; Cathryn
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://vocalviews.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 51f053e4bf
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://vocalviews.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 08:40:09] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 08:40:09] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-keo-dai-thoi-gian-quan-he
+    [email] =&gt; brayden.tyner@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Brayden
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-keo-dai-thoi-gian-quan-he
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 020cc316a3
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-keo-dai-thoi-gian-quan-he
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 10:54:03] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 10:54:03] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; freddeboer@freenet.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.159.22.127
+    [name] =&gt; Fred
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 020cc316a3
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 11:28:07] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 11:28:07] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [email] =&gt; leopoldofree@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.185.87
+    [name] =&gt; Leopoldo
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 020cc316a3
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 12:51:40] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 12:51:40] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; orville_whitmore@peacemail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 193.203.8.43
+    [name] =&gt; Orville
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 020cc316a3
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 19:20:03] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 19:20:03] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/14BomS
+    [email] =&gt; rosemarie.sipes@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.246.195
+    [name] =&gt; Rosemarie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/14BomS
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4bd7293ecf
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/14BomS
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 19:20:07] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 19:20:07] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/14BomS
+    [email] =&gt; rosemarie.sipes@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.246.195
+    [name] =&gt; Rosemarie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/14BomS
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4bd7293ecf
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/14BomS
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 19:20:09] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 19:20:09] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/14BomS
+    [email] =&gt; rosemarie.sipes@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.246.195
+    [name] =&gt; Rosemarie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/14BomS
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4bd7293ecf
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/14BomS
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 19:20:10] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 19:20:10] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/14BomS
+    [email] =&gt; rosemarie.sipes@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.68.246.195
+    [name] =&gt; Rosemarie
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/14BomS
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4bd7293ecf
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/14BomS
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-06 20:46:55] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-06 20:46:55] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; celsaralph@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 193.202.81.202
+    [name] =&gt; Celsa
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 4bd7293ecf
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-07 06:30:00] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-07 06:30:00] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [email] =&gt; angel.serisier@hotmail.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Angel
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3972c7d092
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-07 14:07:38] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-07 14:07:38] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [email] =&gt; christinorthfield@inbox.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Christi
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3972c7d092
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-tri-tham-mun
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-08 07:12:09] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-08 07:12:09] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/EttFQT
+    [email] =&gt; doyle_lazar@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 83.142.52.49
+    [name] =&gt; Doyle
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/EttFQT
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 46672420eb
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/EttFQT
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-09 01:11:36] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-09 01:11:36] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.whatiscryptocurrency.us/H13wW8
+    [email] =&gt; romantaylor@yahoo.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 147.78.181.143
+    [name] =&gt; Roman
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.whatiscryptocurrency.us/H13wW8
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 548864f28c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.whatiscryptocurrency.us/H13wW8
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-09 06:04:18] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-09 06:04:18] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [email] =&gt; averylyons@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 212.60.21.77
+    [name] =&gt; Avery
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; dbe315c8c0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-09 12:16:25] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-09 12:16:25] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.info-forex.de/SWC0ML
+    [email] =&gt; henriettahuie@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.250.46.113
+    [name] =&gt; Henrietta
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.info-forex.de/SWC0ML
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; dbe315c8c0
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.info-forex.de/SWC0ML
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-09 23:08:59] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-09 23:08:59] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; krystlehansell@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 212.60.20.189
+    [name] =&gt; Krystle
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9c2cef98f9
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-10 02:37:32] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-10 02:37:32] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.fourkrestaurant.com/
+    [email] =&gt; latonyapigdon@hotmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 104.149.159.172
+    [name] =&gt; Latonya
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://www.fourkrestaurant.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 9c2cef98f9
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://www.fourkrestaurant.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-10 12:12:36] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-10 12:12:36] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://backstreetsofhickory.com
+    [email] =&gt; judebarth@inbox.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 107.172.139.77
+    [name] =&gt; Jude
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://backstreetsofhickory.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5895b9d1e9
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://backstreetsofhickory.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-10 23:53:47] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-10 23:53:47] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [email] =&gt; leiafiore@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Leia
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5c98e65dac
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-11 01:17:59] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-11 01:17:59] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/
+    [email] =&gt; cleohoran@freenet.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Cleo
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5c98e65dac
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-11 02:31:55] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-11 02:31:55] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://iglesiacristianapuentedevida.org/sgfgdmale/how-to-make-manic-panic-last-longer-in-your-hair-pakh
+    [email] =&gt; charissafredericks@arcor.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 163.172.105.89
+    [name] =&gt; Charissa
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://iglesiacristianapuentedevida.org/sgfgdmale/how-to-make-manic-panic-last-longer-in-your-hair-pakh
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5c98e65dac
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://iglesiacristianapuentedevida.org/sgfgdmale/how-to-make-manic-panic-last-longer-in-your-hair-pakh
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 01:08:27] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 01:08:27] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.binaryoption.ae/LKzdaP
+    [email] =&gt; tressashackleton@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 194.156.125.32
+    [name] =&gt; Tressa
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.binaryoption.ae/LKzdaP
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 35ea20d1ce
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.binaryoption.ae/LKzdaP
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 06:59:47] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 06:59:47] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://originalturtlecoffee.tumblr.com/post/674832776278736896/image-about-cute-in-nails-by-on-we
+    [email] =&gt; jeffreyhopman@zoho.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 54.176.178.240
+    [name] =&gt; Jeffrey
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://originalturtlecoffee.tumblr.com/post/674832776278736896/image-about-cute-in-nails-by-on-we
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; e997ae60c4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://originalturtlecoffee.tumblr.com/post/674832776278736896/image-about-cute-in-nails-by-on-we
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 10:10:09] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 10:10:09] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://vocalviews.com
+    [email] =&gt; horaciomilerum@web.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.72.31.80
+    [name] =&gt; Horacio
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://vocalviews.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; e997ae60c4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://vocalviews.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 10:28:15] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 10:28:15] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.info-forex.de/SWC0ML
+    [email] =&gt; merlecerda@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 185.250.46.84
+    [name] =&gt; Merle
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.info-forex.de/SWC0ML
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; e997ae60c4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.info-forex.de/SWC0ML
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 14:19:16] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 14:19:16] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://love-hindi.com/friendship-shayari.html
+    [email] =&gt; kassiefultz@whale-mail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 147.78.141.115
+    [name] =&gt; Kassie
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://love-hindi.com/friendship-shayari.html
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; e997ae60c4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://love-hindi.com/friendship-shayari.html
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 19:44:23] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 19:44:23] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-kich-duc-nam
+    [email] =&gt; lan_annand@myfastmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Lan
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-kich-duc-nam
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8f2042c1b4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-kich-duc-nam
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 21:28:47] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 21:28:47] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/noi-tie-1635826582t.htm
+    [email] =&gt; garrybernier@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Garry
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/noi-tie-1635826582t.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8f2042c1b4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/noi-tie-1635826582t.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-12 22:04:43] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-12 22:04:43] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [email] =&gt; maritabuttrose@bigstring.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Marita
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8f2042c1b4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-moc-toc
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-13 02:54:54] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-13 02:54:54] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [email] =&gt; emersonbrenan@aol.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 193.203.11.131
+    [name] =&gt; Emerson
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8f2042c1b4
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://free.webcamsexepute.eu/FwEWxM
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-14 15:49:54] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-14 15:49:54] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://vocalviews.com
+    [email] =&gt; debbramerion@gawab.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 144.168.219.161
+    [name] =&gt; Debbra
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://vocalviews.com
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; fc6a3cc6fd
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://vocalviews.com
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-14 23:16:18] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-14 23:16:18] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://foulperfectiongiver.tumblr.com/post/674821253572476928/image-about-summer-in
+    [email] =&gt; sabinafraser@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 54.176.178.240
+    [name] =&gt; Sabina
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://foulperfectiongiver.tumblr.com/post/674821253572476928/image-about-summer-in
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; fc6a3cc6fd
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://foulperfectiongiver.tumblr.com/post/674821253572476928/image-about-summer-in
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-15 07:20:38] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-15 07:20:38] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [email] =&gt; lethaburnett@freenet.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 173.44.222.153
+    [name] =&gt; Letha
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 2538c7848f
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://adsagesafvrtasdasdtg3d.com/
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-15 18:46:05] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-15 18:46:05] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://socialbookmarknew.win/story.php?title=forex-trading-tips-on-how-to-survive-losses-and-handle-fear
+    [email] =&gt; jodie_doherty@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 109.230.218.61
+    [name] =&gt; Jodie
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://socialbookmarknew.win/story.php?title=forex-trading-tips-on-how-to-survive-losses-and-handle-fear
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 306d3ecf9c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://socialbookmarknew.win/story.php?title=forex-trading-tips-on-how-to-survive-losses-and-handle-fear
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-16 01:40:35] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-16 01:40:35] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.forex-review.uno/wYjqOq
+    [email] =&gt; philip_bayles@googlemail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 176.119.141.77
+    [name] =&gt; Philip
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://go.forex-review.uno/wYjqOq
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 306d3ecf9c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.forex-review.uno/wYjqOq
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-16 16:26:26] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-16 16:26:26] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; katjawatts@gawab.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 193.202.82.124
+    [name] =&gt; Katja
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3c7852604b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-16 20:31:18] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-16 20:31:18] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://forex.pm
+    [email] =&gt; rodrigoburne@aol.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 5.183.255.203
+    [name] =&gt; Rodrigo
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://forex.pm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 3c7852604b
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://forex.pm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 07:15:13] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 07:15:13] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [email] =&gt; garrettcass@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Garrett
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 87ba7ca649
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/chong-xuat-tinh-som-cong-doan-16358252092.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 13:20:33] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 13:20:33] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://starmoon.us
+    [email] =&gt; chastitypriestley@gmx.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 13.74.84.31
+    [name] =&gt; Chastity
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://starmoon.us
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 87ba7ca649
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://starmoon.us
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 23:27:01] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 23:27:01] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; hildredwillason@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 31.40.248.207
+    [name] =&gt; Hildred
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8b7362daa1
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 23:27:03] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 23:27:03] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; hildredwillason@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 31.40.248.207
+    [name] =&gt; Hildred
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8b7362daa1
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 23:27:05] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 23:27:05] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; hildredwillason@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 31.40.248.207
+    [name] =&gt; Hildred
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8b7362daa1
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-17 23:27:06] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-17 23:27:06] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; hildredwillason@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 31.40.248.207
+    [name] =&gt; Hildred
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 8b7362daa1
+    [_post_id] =&gt; 339
+    [_referer] =&gt; /2021/09/22/how-to-add-alliances-on-your-appnomu-account/
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-18 15:15:58] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-18 15:15:58] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [email] =&gt; reecelapp@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Reece
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d9dcaa562c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/serum-se-khit-lo-chan-long
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-18 18:22:41] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-18 18:22:41] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://orbit.o0o0.jp/wiki/index.php?gordonwaddell608297
+    [email] =&gt; lilianabeaurepaire@t-online.de
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 171.246.8.196
+    [name] =&gt; Liliana
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; http://orbit.o0o0.jp/wiki/index.php?gordonwaddell608297
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; d9dcaa562c
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://orbit.o0o0.jp/wiki/index.php?gordonwaddell608297
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-19 17:19:06] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-19 17:19:06] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [email] =&gt; nereida.wilbanks@yahoo.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 45.148.232.67
+    [name] =&gt; Nereida
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://go.bestforexrobots.uno/NeZNww
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-19 17:19:15] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-19 17:19:15] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [email] =&gt; ashelydelagarza@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Ashely
+    [rating] =&gt; 5
+    [terms] =&gt; 1
+    [title] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://Top%2010%20thu%E1%BB%91c%20tr%E1%BB%8B%20%C4%91au%20nh%E1%BB%A9c%20x%C6%B0%C6%A1ng%20kh%E1%BB%9Bp%20cho%20ng%C6%B0%E1%BB%9Di%20gi%C3%A0,%20tr%E1%BA%BB%20t%E1%BB%91t%20nh%E1%BA%A5t%20hi%E1%BB%87n%20nay
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-19 19:06:44] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-19 19:06:44] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://www.stroudcourt.org.uk/pdifaecbd/cbd-gummies-for-cramps-fha
+    [email] =&gt; patriciawillason@aol.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 163.172.105.89
+    [name] =&gt; Patricia
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; http://www.stroudcourt.org.uk/pdifaecbd/cbd-gummies-for-cramps-fha
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://www.stroudcourt.org.uk/pdifaecbd/cbd-gummies-for-cramps-fha
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-19 19:14:07] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-19 19:14:07] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [email] =&gt; markhardwicke@veryspeedy.net
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Mark
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://chuthapdohatinh.org.vn/upload/tailieu/hoi-mien-1635826416g.htm
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-19 20:45:50] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-19 20:45:50] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://imoodle.win/wiki/H1nh_Gi_Sa_Blackmores_C_Tt_Thng_C_Tng_Cn_Nng_Khng_Cch_Trn_Sa_Blackmores_Chun_Chnh_Nhth1
+    [email] =&gt; joey.waters@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 59.153.235.190
+    [name] =&gt; Joey
+    [rating] =&gt; 2
+    [terms] =&gt; 1
+    [title] =&gt; https://imoodle.win/wiki/H1nh_Gi_Sa_Blackmores_C_Tt_Thng_C_Tng_Cn_Nng_Khng_Cch_Trn_Sa_Blackmores_Chun_Chnh_Nhth1
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://imoodle.win/wiki/H1nh_Gi_Sa_Blackmores_C_Tt_Thng_C_Tng_Cn_Nng_Khng_Cch_Trn_Sa_Blackmores_Chun_Chnh_Nhth1
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-20 01:19:52] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-20 01:19:52] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; http://theflatearth.win/index.php?title=Post:Sa_ca_knh_cng_lc_8&amp;action=submit
+    [email] =&gt; bennieshelly@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.67.135.52
+    [name] =&gt; Bennie
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; http://theflatearth.win/index.php?title=Post:Sa_ca_knh_cng_lc_8&amp;action=submit
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 88f7d3ae57
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; http://theflatearth.win/index.php?title=Post:Sa_ca_knh_cng_lc_8&amp;action=submit
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-20 07:12:08] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-20 07:12:08] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tang-kich-thuoc-duong-vat
+    [email] =&gt; debbauer@gawab.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Deb
+    [rating] =&gt; 1
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tang-kich-thuoc-duong-vat
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 5332a5137e
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tang-kich-thuoc-duong-vat
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-20 21:00:36] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-20 21:00:36] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [email] =&gt; darrelgellibrand@gmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Darrel
+    [rating] =&gt; 4
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 20f53cc0a2
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-dau-nhuc-xuong-khop
+    [_recaptcha-token] =&gt; 
+)
+
+[2022-03-21 07:39:16] WARNING [Modules\Validator\ValidatorAbstract:60] The Honeypot caught a bad submission.
+[2022-03-21 07:39:16] DEBUG [Modules\Validator\ValidatorAbstract:60] Array
+(
+    [assign_to] =&gt; 
+    [category] =&gt; 
+    [content] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-yeu-sinh-ly-nam
+    [email] =&gt; antonhowie@wildmail.com
+    [form_id] =&gt; glsr_f2c3a155
+    [ip_address] =&gt; 27.79.239.84
+    [name] =&gt; Anton
+    [rating] =&gt; 3
+    [terms] =&gt; 1
+    [title] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-yeu-sinh-ly-nam
+    [_action] =&gt; submit-review
+    [_counter] =&gt; 
+    [_nonce] =&gt; 31fde29ab3
+    [_post_id] =&gt; 213
+    [_referer] =&gt; /
+    [assigned_posts] =&gt; 
+    [assigned_terms] =&gt; 
+    [assigned_users] =&gt; 
+    [excluded] =&gt; 
+    [terms_exist] =&gt; 1
+    [381cdc20] =&gt; https://cuocsongquanhta.webflow.io/posts/thuoc-tri-yeu-sinh-ly-nam
+    [_recaptcha-token] =&gt; 
+)
+

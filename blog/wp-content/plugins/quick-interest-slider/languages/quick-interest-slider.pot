@@ -1,0 +1,691 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 20:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: quick-interest-slider.php:144
+msgid "Redirecting...."
+msgstr ""
+
+#: quick-interest-slider.php:867
+msgid "Settings"
+msgstr ""
+
+#: quick-interest-slider.php:999 messages.php:94
+msgid "Loan Applications"
+msgstr ""
+
+#: quick-interest-slider.php:1019
+msgid "Reference"
+msgstr ""
+
+#: quick-interest-slider.php:1023
+msgid "Amount"
+msgstr ""
+
+#: quick-interest-slider.php:1025
+msgid "Date Sent"
+msgstr ""
+
+#: quick-interest-slider.php:1122
+msgid "Thank you for upgrading. Your authorisation key is"
+msgstr ""
+
+#: quick-interest-slider.php:1123
+msgid "Quick Plugins Authorisation Key"
+msgstr ""
+
+#: messages.php:13
+msgid "All applications have been deleted"
+msgstr ""
+
+#: messages.php:28
+msgid "Selected applications have been deleted"
+msgstr ""
+
+#: messages.php:40
+msgid "Selected applications have been approved"
+msgstr ""
+
+#: messages.php:52
+msgid "Application list has been sent to"
+msgstr ""
+
+#: messages.php:69
+msgid "Applications have been updated"
+msgstr ""
+
+#: messages.php:100
+msgid "Delete all applications"
+msgstr ""
+
+#: messages.php:101
+msgid "Delete Selected"
+msgstr ""
+
+#: messages.php:102
+msgid "Approve Selected"
+msgstr ""
+
+#: messages.php:103
+msgid "Update Applications"
+msgstr ""
+
+#: messages.php:104
+msgid "Edit Applications"
+msgstr ""
+
+#: messages.php:104
+msgid "Edit Selected"
+msgstr ""
+
+#: messages.php:105
+msgid "Cancel"
+msgstr ""
+
+#: messages.php:106
+msgid "Send applications to this email address"
+msgstr ""
+
+#: messages.php:107
+msgid "Email List"
+msgstr ""
+
+#: messages.php:110
+msgid "There are no applications"
+msgstr ""
+
+#: register.php:475
+msgid "Message was sent from"
+msgstr ""
+
+#: register.php:476
+msgid "Senders IP address"
+msgstr ""
+
+#: register.php:477
+msgid "URL"
+msgstr ""
+
+#: register.php:497
+msgid "New Loan Application"
+msgstr ""
+
+#: options.php:60
+msgid "This is a test to demonstrate the tooltip for the loan slider"
+msgstr ""
+
+#: options.php:68
+msgid "This is a test to demonstrate the tooltip for the term slider"
+msgstr ""
+
+#: options.php:78
+msgid "This is a test to demonstrate the tooltip for the interest slider"
+msgstr ""
+
+#: options.php:81
+msgid "Total you will Pay: [total]"
+msgstr ""
+
+#: options.php:82 options.php:183
+msgid "Interest"
+msgstr ""
+
+#: options.php:83
+msgid "Total to Pay"
+msgstr ""
+
+#: options.php:84
+msgid "2% Interest"
+msgstr ""
+
+#: options.php:85
+msgid "3% Interest"
+msgstr ""
+
+#: options.php:89
+msgid "This is a test to demonstrate the tooltip for the output"
+msgstr ""
+
+#: options.php:94
+msgid "Your repayments are [amount] every [period] at [rate]"
+msgstr ""
+
+#: options.php:105 options.php:179
+msgid "Downpayment"
+msgstr ""
+
+#: options.php:107
+msgid "This is a test to demonstrate the tooltip for the downpayment slider"
+msgstr ""
+
+#: options.php:115 options.php:349
+msgid "Loan Amount"
+msgstr ""
+
+#: options.php:123
+msgid "Apply Now"
+msgstr ""
+
+#: options.php:129
+msgid "Select Currency"
+msgstr ""
+
+#: options.php:150
+msgid "Convert to"
+msgstr ""
+
+#: options.php:153
+msgid "Standard Rate"
+msgstr ""
+
+#: options.php:155
+msgid "Student Rate"
+msgstr ""
+
+#: options.php:157
+msgid "Special Rate"
+msgstr ""
+
+#: options.php:178
+msgid "Loan Breakdown"
+msgstr ""
+
+#: options.php:180
+msgid "Discount"
+msgstr ""
+
+#: options.php:181
+msgid "Principle"
+msgstr ""
+
+#: options.php:182
+msgid "Admin Fee"
+msgstr ""
+
+#: options.php:305
+msgid "New registration for [name] on [date]"
+msgstr ""
+
+#: options.php:306
+msgid "Apply for this Loan"
+msgstr ""
+
+#: options.php:307
+msgid "Enter your details below. All fields are required"
+msgstr ""
+
+#: options.php:308
+msgid "Thank you for applying"
+msgstr ""
+
+#: options.php:309
+msgid "We will be in contact soon"
+msgstr ""
+
+#: options.php:310 options.php:493
+msgid "Your Loan Application has been accepted"
+msgstr ""
+
+#: options.php:311 options.php:494
+msgid ""
+"<p>An application for a loan of £[amount] in the name of [name] has been "
+"received and is being processed.</p><p>A copy of the application and the "
+"contract has been sent to [email].</p><p>You will be informed by email once "
+"processing is complete. If successful the money will be transferred to your "
+"bank account.</p>"
+msgstr ""
+
+#: options.php:312
+msgid "Your Name"
+msgstr ""
+
+#: options.php:313
+msgid "Email Address"
+msgstr ""
+
+#: options.php:314
+msgid "Telephone Number"
+msgstr ""
+
+#: options.php:315
+msgid "Answer the sum: "
+msgstr ""
+
+#: options.php:316
+msgid "Message"
+msgstr ""
+
+#: options.php:317 options.php:662
+msgid "Company Name"
+msgstr ""
+
+#: options.php:318
+msgid "Registration Number"
+msgstr ""
+
+#: options.php:319
+msgid "Attach a file. Doc, pdf, png or jpg only. Max size 1Mb"
+msgstr ""
+
+#: options.php:323
+msgid "File is too big "
+msgstr ""
+
+#: options.php:324
+msgid "File type is not permitted"
+msgstr ""
+
+#: options.php:329
+msgid "Fill in this field"
+msgstr ""
+
+#: options.php:331 options.php:492
+msgid "I agree to the Terms and Conditions"
+msgstr ""
+
+#: options.php:335 options.php:498
+msgid "There is an error with your Application"
+msgstr ""
+
+#: options.php:336 options.php:499
+msgid "Please complete all fields"
+msgstr ""
+
+#: options.php:337
+msgid "You already have an application pending"
+msgstr ""
+
+#: options.php:338
+msgid "Apply now"
+msgstr ""
+
+#: options.php:344
+msgid "Send application details to your email address"
+msgstr ""
+
+#: options.php:350
+msgid "Loan Period"
+msgstr ""
+
+#: options.php:352
+msgid "Reason for Loan:"
+msgstr ""
+
+#: options.php:353
+msgid "Buy Beer"
+msgstr ""
+
+#: options.php:354
+msgid "Buy Pizza"
+msgstr ""
+
+#: options.php:355
+msgid "Buy Tacos"
+msgstr ""
+
+#: options.php:358
+msgid "Select an option"
+msgstr ""
+
+#: options.php:359
+msgid "Buy a Banjo,Ride a Donkey,Eat a Melon"
+msgstr ""
+
+#: options.php:361
+msgid "Choose one"
+msgstr ""
+
+#: options.php:362
+msgid "Yes,No,Maybe"
+msgstr ""
+
+#: options.php:365
+msgid ""
+"I consent to my data being retained by the site owner after the application "
+"has been processed."
+msgstr ""
+
+#: options.php:458
+msgid "Loan Application"
+msgstr ""
+
+#: options.php:459
+msgid ""
+"Thank you for your application [name], we will be in contact soon. If you "
+"have any questions please reply to this email."
+msgstr ""
+
+#: options.php:461
+msgid "Your application details"
+msgstr ""
+
+#: options.php:465
+msgid "Your email address has been confirmed"
+msgstr ""
+
+#: options.php:466
+msgid "You have already confirmed your email address"
+msgstr ""
+
+#: options.php:468
+msgid "Click here to confirm your email address"
+msgstr ""
+
+#: options.php:469
+msgid "Your details have been removed from the database"
+msgstr ""
+
+#: options.php:470
+msgid "Click here to unsubscribe"
+msgstr ""
+
+#: options.php:489 options.php:506
+msgid "Personal Details"
+msgstr ""
+
+#: options.php:490
+msgid ""
+"Enter your details below to complete your applicaton. Required fields are "
+"marked in green"
+msgstr ""
+
+#: options.php:491
+msgid "Complete Application"
+msgstr ""
+
+#: options.php:500
+msgid "New application for"
+msgstr ""
+
+#: options.php:505
+msgid "Loan Details"
+msgstr ""
+
+#: options.php:507 options.php:739
+msgid "Address"
+msgstr ""
+
+#: options.php:508
+msgid "Outgoings"
+msgstr ""
+
+#: options.php:509
+msgid "Employment and Income"
+msgstr ""
+
+#: options.php:510
+msgid "Additional Income"
+msgstr ""
+
+#: options.php:511
+msgid "Bank Details"
+msgstr ""
+
+#: options.php:512
+msgid "Document Upload"
+msgstr ""
+
+#: options.php:513
+msgid ""
+"You must provide proof of your identity and address. Select the document "
+"type and upload a scan of that document"
+msgstr ""
+
+#: options.php:514
+msgid "Validaton"
+msgstr ""
+
+#: options.php:539
+msgid "Purpose of loan"
+msgstr ""
+
+#: options.php:544
+msgid ""
+"Groceries,Utility bills,Home improvements,Travelling,Holiday,Entertainment,"
+"Repay other debts"
+msgstr ""
+
+#: options.php:546
+msgid "How do you intend to pay this loan?"
+msgstr ""
+
+#: options.php:550
+msgid "Select...,Salary,Family,Friend,Savings,Another loan,Bonus,Extra Job"
+msgstr ""
+
+#: options.php:552
+msgid "Date of Birth"
+msgstr ""
+
+#: options.php:558
+msgid "Marital Status"
+msgstr ""
+
+#: options.php:563
+msgid ""
+"Select...,Married,Single,Divorced,Widowed,Living together,Separated,Other"
+msgstr ""
+
+#: options.php:565
+msgid "Gender"
+msgstr ""
+
+#: options.php:570
+msgid "Select...,Male,Female"
+msgstr ""
+
+#: options.php:572
+msgid "Number of dependants"
+msgstr ""
+
+#: options.php:578
+msgid "Preferred time of call (if needed)"
+msgstr ""
+
+#: options.php:583
+msgid "Select...,9am - 1pm,1pm - 5pm,5pm - 9pm,Any time is suitable"
+msgstr ""
+
+#: options.php:586
+msgid "Alternate phone number"
+msgstr ""
+
+#: options.php:592
+msgid "Building Name"
+msgstr ""
+
+#: options.php:598
+msgid "House/Flat number and road"
+msgstr ""
+
+#: options.php:604
+msgid "Town"
+msgstr ""
+
+#: options.php:610
+msgid "Postcode"
+msgstr ""
+
+#: options.php:616 options.php:817
+msgid "Type of Residence"
+msgstr ""
+
+#: options.php:621
+msgid ""
+"Select...,Private tenant,Owner,Council tenant,Living with parents,"
+"Work/school accomodation,DSS"
+msgstr ""
+
+#: options.php:623 options.php:825
+msgid "Time at Residence"
+msgstr ""
+
+#: options.php:628 options.php:691 options.php:831
+msgid ""
+"Select...,0-6 months,7-11 months,1 year,2 years,3 years,4 years, 5 years or "
+"more"
+msgstr ""
+
+#: options.php:631
+msgid "Estimated monthly cost of Food and Groceries"
+msgstr ""
+
+#: options.php:637
+msgid "Estimated monthly cost of recreation"
+msgstr ""
+
+#: options.php:643
+msgid "Existing loan repayments"
+msgstr ""
+
+#: options.php:649
+msgid "Other Bills"
+msgstr ""
+
+#: options.php:654 options.php:698
+msgid "Select...,Yes,No"
+msgstr ""
+
+#: options.php:656
+msgid "If yes, enter the monthly amount"
+msgstr ""
+
+#: options.php:668
+msgid "Name of Employer"
+msgstr ""
+
+#: options.php:674
+msgid "Job title"
+msgstr ""
+
+#: options.php:680
+msgid "Monthly Net Income"
+msgstr ""
+
+#: options.php:686
+msgid "Time in this employment"
+msgstr ""
+
+#: options.php:693
+msgid "Is your income paid directly into your bank account?"
+msgstr ""
+
+#: options.php:701
+msgid "Select additional income sources"
+msgstr ""
+
+#: options.php:706
+msgid ""
+"None,Partner's net income,Child benefits,Working Tax Credit and Child,Family "
+"Tax Credit, Overtime,Bonus,Additional work,Pension,Incapacity Benefits"
+msgstr ""
+
+#: options.php:709
+msgid "Bank Name"
+msgstr ""
+
+#: options.php:715
+msgid "Account Number"
+msgstr ""
+
+#: options.php:721
+msgid "Sort Code"
+msgstr ""
+
+#: options.php:727
+msgid "IBAN Number"
+msgstr ""
+
+#: options.php:733
+msgid "SWIFT Number"
+msgstr ""
+
+#: options.php:745
+msgid "Country"
+msgstr ""
+
+#: options.php:750
+msgid "Austria,Belgium,Canada,Denmark,United Kingdom"
+msgstr ""
+
+#: options.php:753
+msgid "Proof of identity document"
+msgstr ""
+
+#: options.php:758
+msgid "Passport,Driving License,ID Card"
+msgstr ""
+
+#: options.php:760
+msgid "Proof of address document"
+msgstr ""
+
+#: options.php:765
+msgid "Utility bill, Notarised letter, Driving license"
+msgstr ""
+
+#: options.php:768
+msgid "I agree to the [a]Terms and conditions[/a]."
+msgstr ""
+
+#: options.php:776
+msgid "I have uploaded proof of identity documents."
+msgstr ""
+
+#: options.php:782
+msgid "Information given is accurate to the best of my knowledge."
+msgstr ""
+
+#: options.php:789
+msgid "Previous Building Name"
+msgstr ""
+
+#: options.php:796
+msgid "Previous House/Flat number and road"
+msgstr ""
+
+#: options.php:803
+msgid "Previous Town"
+msgstr ""
+
+#: options.php:810
+msgid "Previous Postcode"
+msgstr ""
+
+#: options.php:823
+msgid ""
+"Select...,Private tenant,Owner,Council tenant,Living with parents,"
+"Work/school accomodation"
+msgstr ""
+
+#. Name of the plugin
+msgid "Quick Interest Slider"
+msgstr ""
+
+#. Description of the plugin
+msgid "Interest calculator with slider and multiple display options."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://loanpaymentplugin.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "aerin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://quick-plugins.com/"
+msgstr ""

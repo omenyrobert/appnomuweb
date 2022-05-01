@@ -1,0 +1,7 @@
+/*
+* Custom Css for backend 
+*/
+#accordion-section-header_search_section,
+#accordion-section-section_home_latest_posts{
+	display: none !important;
+}

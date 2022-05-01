@@ -1,0 +1,1692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Interest Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-02 08:16+0000\n"
+"PO-Revision-Date: 2018-10-02 20:08+0000\n"
+"Last-Translator: support <polbulva@seznam.cz>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: quick-interest-slider.php:100
+msgid "Redirecting...."
+msgstr ""
+
+#: quick-interest-slider.php:532 settings.php:22
+msgid "Settings"
+msgstr ""
+
+#: quick-interest-slider.php:624
+msgid "Loan Applications"
+msgstr ""
+
+#: quick-interest-slider.php:648 settings.php:366
+msgid "Amount"
+msgstr "Částka"
+
+#: quick-interest-slider.php:649
+msgid "Date Sent"
+msgstr "Datum odeslání"
+
+#: quick-interest-slider.php:734
+msgid "Thank for upgrading. Your authorisation key is"
+msgstr ""
+
+#: quick-interest-slider.php:735
+msgid "Quick Plugins Authorisation Key"
+msgstr ""
+
+#: settings.php:23
+msgid "Styling"
+msgstr ""
+
+#: settings.php:24 settings.php:1037 settings.php:1593
+msgid "Application Form"
+msgstr ""
+
+#: settings.php:25
+msgid "Full Application"
+msgstr ""
+
+#: settings.php:26
+msgid "Auto Responder"
+msgstr "Automatická odpověď"
+
+#: settings.php:27
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: settings.php:39
+msgid "Repayment Calculator"
+msgstr "Splátková kalkulačka"
+
+#: settings.php:196
+msgid "The settings have been updated"
+msgstr ""
+
+#: settings.php:201
+msgid "The settings have been reset"
+msgstr ""
+
+#: settings.php:235
+msgid "Using the Plugin"
+msgstr "Použití pluginu"
+
+#: settings.php:236
+msgid "Add the form to a post or page using the shortcode [qis]"
+msgstr ""
+
+#: settings.php:236
+msgid ""
+"Customise your form using the settings below or with shortcode attributes"
+msgstr ""
+
+#: settings.php:236
+msgid "See all shortcode attributes"
+msgstr ""
+
+#: settings.php:237 settings.php:296 settings.php:468 settings.php:1040 
+#: settings.php:1596 settings.php:1725 settings.php:1829
+msgid "Upgrade to Pro"
+msgstr "Upgrade na PRO verzi"
+
+#: settings.php:237
+msgid "for more options and styling"
+msgstr ""
+
+#: settings.php:237
+msgid "a loan application form"
+msgstr ""
+
+#: settings.php:237
+msgid "and foreign exchange calculations"
+msgstr ""
+
+#: settings.php:243
+msgid "Form Header"
+msgstr "Záhlaví formuláře"
+
+#: settings.php:244
+msgid "Add a title to the top of the form"
+msgstr "Přidejte název do horní části formuláře"
+
+#: settings.php:251
+msgid "Currency"
+msgstr "Měna"
+
+#: settings.php:252 settings.php:276
+msgid "Symbol"
+msgstr ""
+
+#: settings.php:252
+msgid "ISO code"
+msgstr "ISO kód"
+
+#: settings.php:253
+msgid "Currency Position"
+msgstr "Pozice měny"
+
+#: settings.php:253
+msgid "Before"
+msgstr "Před"
+
+#: settings.php:253
+msgid "After"
+msgstr "Po"
+
+#: settings.php:254
+msgid "Thousands separator"
+msgstr "Oddělovač tisíců"
+
+#: settings.php:261
+msgid "Currency Selectors and Foreign Exchange"
+msgstr "Výběr měn a devizové kurzy"
+
+#: settings.php:267
+msgid "Add currency selector"
+msgstr "Přidat volič měny"
+
+#: settings.php:267
+msgid "Lets users change the currency on the slider and output messages"
+msgstr "Umožňuje uživatelům změnit měnu na posuvníku a výstupní zprávy"
+
+#: settings.php:267 settings.php:269
+msgid "Leave unchecked to display the default currency"
+msgstr "Ponechte nezaškrtnuté, chcete-li zobrazit výchozí měnu"
+
+#: settings.php:269
+msgid "Currency conversions"
+msgstr "Měnové konverze"
+
+#: settings.php:269
+msgid "Lets users select the repayment currency"
+msgstr ""
+
+#: settings.php:271
+msgid "Currency selector label"
+msgstr ""
+
+#: settings.php:272
+msgid "FX selector label"
+msgstr ""
+
+#: settings.php:277 settings.php:1122
+msgid "Name"
+msgstr "Jméno"
+
+#: settings.php:278
+msgid "ISO"
+msgstr "ISO"
+
+#: settings.php:292
+msgid "Add New Currency"
+msgstr "Přidat novou měnu"
+
+#: settings.php:293
+msgid ""
+"Exchange rates for supported currencies are issued daily at 4pm CET by the"
+msgstr ""
+
+#: settings.php:293
+msgid "European Central Bank"
+msgstr "Evropská centrální banka"
+
+#: settings.php:297 settings.php:469
+msgid "to access this option"
+msgstr ""
+
+#: settings.php:304
+msgid "Amount Slider Settings"
+msgstr "Nastavení posuvníku částky"
+
+#: settings.php:306
+msgid "Amount Slider Label"
+msgstr "Jmenovka posuvníku částky"
+
+#: settings.php:307 settings.php:323 settings.php:440 settings.php:504
+msgid "Add tooltip"
+msgstr "Přidat popisek"
+
+#: settings.php:307 settings.php:323 settings.php:440
+msgid "displays to the right of the label"
+msgstr "zobrazuje napravo od popisku"
+
+#: settings.php:308 settings.php:324 settings.php:441 settings.php:505
+msgid "Tooltip content"
+msgstr ""
+
+#: settings.php:310
+msgid "Minimum value"
+msgstr "Minimální hodnota"
+
+#: settings.php:311
+msgid "Maximum value"
+msgstr "Maximální hodnota"
+
+#: settings.php:312
+msgid "Initial value"
+msgstr ""
+
+#: settings.php:313 settings.php:333 settings.php:445
+msgid "Step"
+msgstr "Krok"
+
+#: settings.php:319
+msgid "Term Slider Settings"
+msgstr "Nastavení posuvníku termínu"
+
+#: settings.php:320
+msgid "Use Term slider"
+msgstr "Použít posuvníku termínu"
+
+#: settings.php:322
+msgid "Term Slider Label"
+msgstr "Popis posuvníku termínu"
+
+#: settings.php:326 options.php:80
+msgid "Loan Period"
+msgstr ""
+
+#: settings.php:326
+msgid "Days"
+msgstr "Dny"
+
+#: settings.php:327
+msgid "Weeks"
+msgstr "Týdny"
+
+#: settings.php:328
+msgid "Months"
+msgstr "Měsíce"
+
+#: settings.php:329
+msgid "Years"
+msgstr "Roky"
+
+#: settings.php:330
+msgid "Minimum term"
+msgstr "Minimální doba"
+
+#: settings.php:331
+msgid "Maximum term"
+msgstr "Maximální doba"
+
+#: settings.php:332
+msgid "Initial term"
+msgstr "Počáteční termín"
+
+#: settings.php:334
+msgid "Term labels"
+msgstr "Popisek termínu"
+
+#: settings.php:334
+msgid "Singular"
+msgstr ""
+
+#: settings.php:335
+msgid "Plural"
+msgstr ""
+
+#: settings.php:335
+msgid "This will replace the word"
+msgstr ""
+
+#: settings.php:335
+msgid "with your own labels"
+msgstr ""
+
+#: settings.php:341
+msgid "Input Options"
+msgstr "Možnosti zadávání"
+
+#: settings.php:342
+msgid "Slider Values Only"
+msgstr "Jenom slider"
+
+#: settings.php:343
+msgid "Text Input Only"
+msgstr "Jenom text"
+
+#: settings.php:344
+msgid "Slider and Text Inputs"
+msgstr "Slider i text"
+
+#: settings.php:346
+msgid "Add increase/decrease buttons to slider"
+msgstr "Přidejte tlačítka pro zvýšení / snížení k posuvníku"
+
+#: settings.php:346
+msgid "does not work on text inputs"
+msgstr ""
+
+#: settings.php:352
+msgid "Interest Rates"
+msgstr ""
+
+#: settings.php:358 settings.php:453
+msgid "Rate"
+msgstr ""
+
+#: settings.php:359
+msgid "Trigger by:"
+msgstr "Spouštění podle:"
+
+#: settings.php:365
+msgid "Period"
+msgstr "Doba"
+
+#: settings.php:420
+msgid "Interest Type"
+msgstr "Typ úroků"
+
+#: settings.php:420 settings.php:478
+msgid "Fixed"
+msgstr "Fixní"
+
+#: settings.php:421
+msgid "Simple"
+msgstr "Jednoduchý"
+
+#: settings.php:422
+msgid "Compound"
+msgstr "Složený"
+
+#: settings.php:423
+msgid "Amortisation (Europe)"
+msgstr "Amortizace (Evropa)"
+
+#: settings.php:424
+msgid "Amortization (USA)"
+msgstr "Amortizace (USA)"
+
+#: settings.php:425
+msgid "Interest type explanations"
+msgstr "Vysvětlení typu úroku"
+
+#: settings.php:426
+msgid "Use APR"
+msgstr "Použít APR"
+
+#: settings.php:427
+msgid "Interest is normally calculated as APR"
+msgstr ""
+
+#: settings.php:427
+msgid ""
+"If you want to calculate interest by the period set in the Term Slider "
+"Settings uncheck this option"
+msgstr ""
+"Chcete-li vypočítat úroky podle období nastaveného v parametru Posuvník "
+"termín, zrušte zaškrtnutí této možnosti"
+
+#: settings.php:428
+msgid "Repayment Divider"
+msgstr "Repayment Divider"
+
+#: settings.php:429
+msgid ""
+"Use this if you want to display the repayment amount in a different period "
+"to that in the slider"
+msgstr ""
+"Tuto možnost použijte, pokud chcete zobrazit částku splátek v jiném období, "
+"než je čas v posuvníku"
+
+#: settings.php:429
+msgid ""
+"For example, if you have a loan period in years but want to show the "
+"repayment amount per month the divider would be 12"
+msgstr ""
+
+#: settings.php:429
+msgid "For repayment each week on a monthly loan the divider would be 4.3"
+msgstr ""
+
+#: settings.php:435
+msgid "Interest Slider Settings"
+msgstr "Nastavení posunu úroků"
+
+#: settings.php:438
+msgid "Use interest slider"
+msgstr "Použít slider pro úroky"
+
+#: settings.php:438 settings.php:448
+msgid "Warning!"
+msgstr "Varování!"
+
+#: settings.php:438 settings.php:448
+msgid "This will disable all interest triggers"
+msgstr ""
+
+#: settings.php:438
+msgid "and the interest selector"
+msgstr ""
+
+#: settings.php:439
+msgid "Interest Slider Label"
+msgstr "Popis posuvníku úroků"
+
+#: settings.php:442
+msgid "Minimum rate"
+msgstr "Minimální sazba"
+
+#: settings.php:443
+msgid "Maximum rate"
+msgstr "Maximální sazba"
+
+#: settings.php:444
+msgid "Initial rate"
+msgstr ""
+
+#: settings.php:446
+msgid "Interest Selector Settings"
+msgstr ""
+
+#: settings.php:448
+msgid "Use interest selector"
+msgstr ""
+
+#: settings.php:448
+msgid "and the interest slider"
+msgstr "a posuvník úroků"
+
+#: settings.php:449
+msgid "Interest Selector Label"
+msgstr ""
+
+#: settings.php:454 settings.php:1113
+msgid "Label"
+msgstr ""
+
+#: settings.php:476
+msgid "Processing Fee"
+msgstr ""
+
+#: settings.php:477 settings.php:480
+msgid "Add a processing fee"
+msgstr "Přidejte poplatek za zpracování"
+
+#: settings.php:477
+msgid "calculated from the amount slider value"
+msgstr "počítáno z hodnoty posuvníku"
+
+#: settings.php:478
+msgid "Amount Processing fee"
+msgstr ""
+
+#: settings.php:478
+msgid "Percent"
+msgstr ""
+
+#: settings.php:480
+msgid "calculated from the term slider value"
+msgstr "počítáno z hodnoty posuvníku termínu"
+
+#: settings.php:480
+msgid "eg: an amount multiplied by the number of"
+msgstr ""
+
+#: settings.php:481
+msgid "Term Processing fee"
+msgstr "Poplatek za zpracování termínu"
+
+#: settings.php:481
+msgid "number of"
+msgstr ""
+
+#: settings.php:482
+msgid "Add fees"
+msgstr "Přidejte poplatky"
+
+#: settings.php:482
+msgid "before interest"
+msgstr "před odečtením úroků"
+
+#: settings.php:482
+msgid "after interest"
+msgstr ""
+
+#: settings.php:483
+msgid "Minimum fee"
+msgstr "Minimální poplatek"
+
+#: settings.php:483
+msgid "Maximum fee"
+msgstr "Maximální poplatek"
+
+#: settings.php:489
+msgid "Output Options"
+msgstr ""
+
+#: settings.php:490
+msgid "Show amount/term above slider"
+msgstr "Zobrazit množství / termín nad posuvníkem"
+
+#: settings.php:490
+msgid "Use moving bubble"
+msgstr ""
+
+#: settings.php:491
+msgid "Show min and max values above slider"
+msgstr "Zobrazit minimální a maximální hodnotu nad posuvníkem"
+
+#: settings.php:492
+msgid "Hide labels on slider"
+msgstr ""
+
+#: settings.php:492
+msgid "eg: 100 not $100 or 7 not 7 months"
+msgstr ""
+
+#: settings.php:493
+msgid "Show step markers on slider"
+msgstr "Zobrazit ukazatele kroku na posuvníku"
+
+#: settings.php:494
+msgid "Small steps will mean lots of marker lines. Use with caution"
+msgstr ""
+"Malé kroky znamenají spoustu značkovacích řádků. Používejte s opatrností"
+
+#: settings.php:496
+msgid "Display repayment terms"
+msgstr "Zobrazit podmínky splácení"
+
+#: settings.php:498
+msgid "Display total to pay below slider"
+msgstr ""
+
+#: settings.php:500
+msgid "Use &lt;br&gt; or &lt;p&gt;...&lt;/p&gt; to add a new line"
+msgstr "Použít &lt;br&gt; nebo &lt;p&gt;...&lt;/p&gt; k vložení nového řádku"
+
+#: settings.php:500
+msgid "HTML styling is allowed"
+msgstr ""
+
+#: settings.php:501
+msgid "The output messages have these optional shortcodes"
+msgstr ""
+
+#: settings.php:502
+msgid "Repayment date format"
+msgstr ""
+
+#: settings.php:502
+msgid "USA"
+msgstr "USA"
+
+#: settings.php:502
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: settings.php:502
+msgid "Rest of the World"
+msgstr ""
+
+#: settings.php:502
+msgid "DD/Mmm/YYYY"
+msgstr "DD/Mmm/RRRR"
+
+#: settings.php:502
+msgid "Date Seperator"
+msgstr "Oddělovač data"
+
+#: settings.php:504
+msgid "displays to the right of the output content"
+msgstr "zobrazí se vpravo od výstupního obsahu"
+
+#: settings.php:507
+msgid "Decimals"
+msgstr "Desítky"
+
+#: settings.php:507
+msgid "None"
+msgstr "Žádný"
+
+#: settings.php:508
+msgid "Floating"
+msgstr "Plovoucí"
+
+#: settings.php:509
+msgid "Always on"
+msgstr "Vždy zapnuto"
+
+#: settings.php:511
+msgid "Hide all output messages if zero value in amount or term"
+msgstr ""
+"Skryjte všechny výstupní zprávy, pokud je nulová hodnota ve výši nebo termínu"
+
+#: settings.php:515
+msgid "Apply Now Button"
+msgstr "Tlačítko Použijte nyní"
+
+#: settings.php:516
+msgid "Add an Apply now button to the form"
+msgstr ""
+
+#: settings.php:517
+msgid "This does not process the form data"
+msgstr ""
+
+#: settings.php:517
+msgid "All the button does is send the visitor to the URL given below"
+msgstr ""
+
+#: settings.php:518
+msgid "Apply now label"
+msgstr "Použijte nyní popisek"
+
+#: settings.php:519
+msgid "Form action URL"
+msgstr ""
+
+#: settings.php:520
+msgid "Append query to URL"
+msgstr ""
+
+#: settings.php:521
+msgid "The query is structured as follows"
+msgstr ""
+
+#: settings.php:521
+msgid "?amount=0000&period=00"
+msgstr ""
+
+#: settings.php:599
+msgid "Form Layout"
+msgstr ""
+
+#: settings.php:600
+msgid "Remove all styles"
+msgstr ""
+
+#: settings.php:601
+msgid "Do not use custom styles"
+msgstr "Nepoužívat vlastní styly"
+
+#: settings.php:605
+msgid "Form Width"
+msgstr ""
+
+#: settings.php:605
+msgid "fill the available space"
+msgstr ""
+
+#: settings.php:606
+msgid "fixed"
+msgstr "fixní"
+
+#: settings.php:606
+msgid "use px, em or %. Default is px"
+msgstr ""
+
+#: settings.php:610
+msgid "Form Border"
+msgstr ""
+
+#: settings.php:611
+msgid "No border"
+msgstr ""
+
+#: settings.php:612
+msgid "Plain Border"
+msgstr ""
+
+#: settings.php:613
+msgid "Shadowed Border"
+msgstr ""
+
+#: settings.php:617 settings.php:831
+msgid "Border Thickness"
+msgstr "Tloušťka ohraničení"
+
+#: settings.php:622
+msgid "Border Color"
+msgstr "Barva ohraničení"
+
+#: settings.php:627
+msgid "Border Radius"
+msgstr "Zaoblení ohraničení"
+
+#: settings.php:632
+msgid "Padding"
+msgstr ""
+
+#: settings.php:637 settings.php:821
+msgid "Background Colour"
+msgstr "Barva pozadí"
+
+#: settings.php:638
+msgid "White"
+msgstr "Bílý"
+
+#: settings.php:639
+msgid "Use theme colours"
+msgstr ""
+
+#: settings.php:640
+msgid "Select colour"
+msgstr ""
+
+#: settings.php:649
+msgid "Background Image"
+msgstr "Obrázek pozadí"
+
+#: settings.php:653
+msgid "Leave blank to use plain colours"
+msgstr ""
+
+#: settings.php:662
+msgid "Slider Styles"
+msgstr ""
+
+#: settings.php:667
+msgid "Slider labels"
+msgstr ""
+
+#: settings.php:671 settings.php:690 settings.php:704 settings.php:774 
+#: settings.php:793
+msgid "Font Size"
+msgstr "Velikost písma"
+
+#: settings.php:676 settings.php:695 settings.php:709 settings.php:779 
+#: settings.php:798 settings.php:816 settings.php:851
+msgid "Font Colour"
+msgstr "Barva písma"
+
+#: settings.php:681 settings.php:784 settings.php:803
+msgid "Margin"
+msgstr ""
+
+#: settings.php:686
+msgid "Slider output"
+msgstr ""
+
+#: settings.php:700
+msgid "Max and min values"
+msgstr "Maximální a minimální hodnoty"
+
+#: settings.php:714
+msgid "Slider Bar"
+msgstr ""
+
+#: settings.php:718 settings.php:752
+msgid "Thickness"
+msgstr ""
+
+#: settings.php:723
+msgid "Normal Background"
+msgstr ""
+
+#: settings.php:728
+msgid "Revealed Background"
+msgstr ""
+
+#: settings.php:733
+msgid "Square Slider"
+msgstr ""
+
+#: settings.php:738
+msgid "Slider Handle"
+msgstr ""
+
+#: settings.php:742
+msgid "Background"
+msgstr "Pozadí"
+
+#: settings.php:747
+msgid "Border colour"
+msgstr "Barva ohraničení"
+
+#: settings.php:757
+msgid "Corners"
+msgstr "Rohy"
+
+#: settings.php:766
+msgid "Output Styles"
+msgstr ""
+
+#: settings.php:770
+msgid "Interest/Repayments"
+msgstr ""
+
+#: settings.php:789 options.php:83
+msgid "Total to Pay"
+msgstr ""
+
+#: settings.php:812
+msgid "Tooltips"
+msgstr ""
+
+#: settings.php:826
+msgid "Border Colour"
+msgstr "Barva ohraničení"
+
+#: settings.php:836
+msgid "Corner Radius"
+msgstr "Zaoblení rohů"
+
+#: settings.php:846
+msgid "Increase/Decrease Buttons"
+msgstr ""
+
+#: settings.php:856
+msgid "Size"
+msgstr ""
+
+#: settings.php:861
+msgid "Icons"
+msgstr "Ikony"
+
+#: settings.php:945
+msgid "The registration form settings have been updated"
+msgstr ""
+
+#: settings.php:950
+msgid "The registration form settings have been reset"
+msgstr ""
+
+#: settings.php:1038
+msgid "Add a form to the loan calculator to allow visitors to apply for a loan"
+msgstr ""
+
+#: settings.php:1039 settings.php:1595
+msgid ""
+"The application form is only availabile in the pro version of the plugin"
+msgstr ""
+
+#: settings.php:1047
+msgid "Usage"
+msgstr ""
+
+#: settings.php:1053 settings.php:1604
+msgid "Enable Application Form"
+msgstr "Povolit formulář žádosti"
+
+#: settings.php:1058
+msgid "Your Email Address"
+msgstr "Vaše emailová adresa"
+
+#: settings.php:1059
+msgid "This is where registration notifications will be sent"
+msgstr ""
+
+#: settings.php:1067
+msgid "Form Variant"
+msgstr ""
+
+#: settings.php:1068
+msgid "You can display two different forms on your site"
+msgstr ""
+
+#: settings.php:1068
+msgid "Select which one you want to edit"
+msgstr ""
+
+#: settings.php:1070
+msgid "The default variant displays if the application form is enabled"
+msgstr ""
+
+#: settings.php:1070
+msgid "To display the alternate form use the shortcode"
+msgstr ""
+
+#: settings.php:1076
+msgid "Form Headers"
+msgstr "Záhlaví formulářů"
+
+#: settings.php:1080
+msgid "Form title"
+msgstr ""
+
+#: settings.php:1084
+msgid "Form blurb"
+msgstr ""
+
+#: settings.php:1087 settings.php:1612
+msgid "Submit Button"
+msgstr ""
+
+#: settings.php:1096
+msgid "Form Fields"
+msgstr ""
+
+#: settings.php:1097
+msgid "Check those fields you want to use. Drag and drop to change the order"
+msgstr ""
+
+#: settings.php:1111 settings.php:1623
+msgid "Use"
+msgstr "Použít"
+
+#: settings.php:1112
+msgid "Field"
+msgstr "Pole"
+
+#: settings.php:1129
+msgid "Email"
+msgstr "Email"
+
+#: settings.php:1136
+msgid "Telephone"
+msgstr ""
+
+#: settings.php:1143 options.php:277
+msgid "Message"
+msgstr ""
+
+#: settings.php:1150
+msgid "Captcha"
+msgstr "Captcha"
+
+#: settings.php:1152
+msgid "Displays a simple maths captcha to confuse the spammers"
+msgstr ""
+
+#: settings.php:1157
+msgid "Copy Message"
+msgstr "Kopírovat zprávu"
+
+#: settings.php:1159
+msgid "Set default 'Copy Message' field to 'checked'"
+msgstr ""
+
+#: settings.php:1164
+msgid "Additional Info (displays as plain text)"
+msgstr ""
+
+#: settings.php:1171
+msgid "Checkboxes"
+msgstr ""
+
+#: settings.php:1178
+msgid "Terms and Conditions checkbox"
+msgstr ""
+
+#: settings.php:1180
+msgid "Open link in new Tab/Window"
+msgstr ""
+
+#: settings.php:1185
+msgid "Dropdown"
+msgstr ""
+
+#: settings.php:1187
+msgid "Include label in dropdown list"
+msgstr ""
+
+#: settings.php:1187
+msgid "Show as label above dropdown"
+msgstr ""
+
+#: settings.php:1193
+msgid "Radio Buttons"
+msgstr ""
+
+#: settings.php:1201
+msgid "Consent Checkbox"
+msgstr ""
+
+#: settings.php:1238
+msgid "Field Label Locations"
+msgstr ""
+
+#: settings.php:1239
+msgid "Reduce in size on focus"
+msgstr ""
+
+#: settings.php:1239
+msgid "Placeholders"
+msgstr ""
+
+#: settings.php:1239
+msgid "Above Input Fields"
+msgstr ""
+
+#: settings.php:1245
+msgid "Tracking"
+msgstr ""
+
+#: settings.php:1246
+msgid "Add tracking information to the messages you receive"
+msgstr ""
+
+#: settings.php:1250
+msgid "Show page title"
+msgstr ""
+
+#: settings.php:1254
+msgid "Show IP address"
+msgstr ""
+
+#: settings.php:1258
+msgid "Show URL"
+msgstr ""
+
+#: settings.php:1266
+msgid "Error and Thank-you messages"
+msgstr ""
+
+#: settings.php:1271
+msgid "Thank you message title"
+msgstr ""
+
+#: settings.php:1276
+msgid "Thank you message blurb"
+msgstr ""
+
+#: settings.php:1281 settings.php:1676
+msgid "Error Title"
+msgstr "Název chyby"
+
+#: settings.php:1286 settings.php:1678
+msgid "Error Message"
+msgstr "Chybové hlášení"
+
+#: settings.php:1291
+msgid "Offset"
+msgstr ""
+
+#: settings.php:1292
+msgid "The number of pixels above the top of the form on page relaod"
+msgstr ""
+
+#: settings.php:1292
+msgid "Used when your theme has sticky header"
+msgstr ""
+
+#: settings.php:1301
+msgid "Data Storage"
+msgstr "Datové úložiště"
+
+#: settings.php:1306
+msgid "Store applications in database"
+msgstr ""
+
+#: settings.php:1306
+msgid "Disable for privacy legislation compliance"
+msgstr ""
+
+#: settings.php:1314
+msgid "Redirecton"
+msgstr ""
+
+#: settings.php:1315
+msgid "Redirect to this URL after form submission"
+msgstr ""
+
+#: settings.php:1322
+msgid "Save Changes"
+msgstr ""
+
+#: settings.php:1323
+msgid "Reset"
+msgstr ""
+
+#: settings.php:1323
+msgid "Are you sure you want to reset the registration form?"
+msgstr "Opravdu chcete obnovit registrační formulář?"
+
+#: settings.php:1329
+msgid "Application Form Styling"
+msgstr ""
+
+#: settings.php:1337
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: settings.php:1341
+msgid "Button Colour"
+msgstr "Barva tlačítka"
+
+#: settings.php:1346
+msgid "Button Background"
+msgstr "Pozadí tlačítka"
+
+#: settings.php:1351
+msgid "Button Hover"
+msgstr ""
+
+#: settings.php:1402
+msgid "Margins and Padding"
+msgstr ""
+
+#: settings.php:1445
+msgid "Enter your API Key to check all messages against the Akismet database"
+msgstr ""
+
+#: settings.php:1447
+msgid "Activate Akismet Validation"
+msgstr ""
+
+#: settings.php:1575
+msgid "The application form settings have been updated"
+msgstr ""
+
+#: settings.php:1582
+msgid "The application form settings have been reset"
+msgstr ""
+
+#: settings.php:1594
+msgid ""
+"Add a two part form to the loan calculator to allow visitors to apply for a "
+"loan"
+msgstr ""
+
+#: settings.php:1602
+msgid "This needs more work"
+msgstr ""
+
+#: settings.php:1603
+msgid "This is a new function that is in development but I need help"
+msgstr ""
+
+#: settings.php:1603
+msgid ""
+"The idea is you can collect financial data in order to process a loan "
+"application"
+msgstr ""
+
+#: settings.php:1603
+msgid "If this is something you would find useful let me know"
+msgstr ""
+
+#: settings.php:1608
+msgid "Form Title"
+msgstr ""
+
+#: settings.php:1610
+msgid "Form Blurb"
+msgstr ""
+
+#: settings.php:1618
+msgid "Section"
+msgstr ""
+
+#: settings.php:1620
+msgid "Title"
+msgstr "Název"
+
+#: settings.php:1621
+msgid "Fields"
+msgstr "Pole"
+
+#: settings.php:1623
+msgid "Req"
+msgstr ""
+
+#: settings.php:1623
+msgid "Type"
+msgstr "Typ"
+
+#: settings.php:1623
+msgid "Label/Options"
+msgstr ""
+
+#: settings.php:1671
+msgid "Thank you and Error Messages"
+msgstr ""
+
+#: settings.php:1672
+msgid "Thank-you Title"
+msgstr ""
+
+#: settings.php:1674
+msgid "Thank-you blurb"
+msgstr ""
+
+#: settings.php:1682
+msgid "Save Settings"
+msgstr ""
+
+#: settings.php:1682
+msgid "Reset Settings"
+msgstr ""
+
+#: settings.php:1722
+msgid "Autoresponder"
+msgstr "Automatická odpověď"
+
+#: settings.php:1723
+msgid ""
+"The autoresponder will send a personalised email to applicants with details "
+"of their application"
+msgstr ""
+
+#: settings.php:1724
+msgid "The autoresponder is only availabile in the pro version of the plugin"
+msgstr ""
+
+#: settings.php:1727
+msgid "Auto responder settings"
+msgstr "Nastavení automatické odpovědi"
+
+#: settings.php:1728
+msgid ""
+"The Auto Responder will send an email to the Applicant if enabled or if they "
+"choose the option on the application form to recieve a copy of their details"
+msgstr ""
+
+#: settings.php:1730
+msgid "Enable Auto Responder"
+msgstr "Povolit automatickou odpověď"
+
+#: settings.php:1731
+msgid "From Name:"
+msgstr ""
+
+#: settings.php:1731
+msgid "Defaults to your"
+msgstr "Výchozí nastavení"
+
+#: settings.php:1731
+msgid "Site Title"
+msgstr ""
+
+#: settings.php:1731 settings.php:1733
+msgid "if left blank"
+msgstr "pokud je prázdné"
+
+#: settings.php:1733
+msgid "From Email:"
+msgstr ""
+
+#: settings.php:1733
+msgid "Defaults to the"
+msgstr "Výchozí nastavení"
+
+#: settings.php:1733
+msgid "Admin Email"
+msgstr "Email administrátora"
+
+#: settings.php:1735
+msgid "Subject:"
+msgstr ""
+
+#: settings.php:1739
+msgid "You can use the following shortcodes in the message body:"
+msgstr ""
+
+#: settings.php:1741
+msgid "Replacement Text"
+msgstr ""
+
+#: settings.php:1742
+msgid "The registrants name from the form"
+msgstr ""
+
+#: settings.php:1743
+msgid "The loan amount"
+msgstr ""
+
+#: settings.php:1744
+msgid "The replayment period"
+msgstr ""
+
+#: settings.php:1745
+msgid "The date the application was made"
+msgstr ""
+
+#: settings.php:1746
+msgid "The interest rate"
+msgstr ""
+
+#: settings.php:1747
+msgid "The repayment amount"
+msgstr ""
+
+#: settings.php:1748
+msgid "The total to be repaid"
+msgstr ""
+
+#: settings.php:1749
+msgid "The application reference number"
+msgstr ""
+
+#: settings.php:1752
+msgid "Add the application details to the email"
+msgstr ""
+
+#: settings.php:1753
+msgid "Application details blurb"
+msgstr ""
+
+#: settings.php:1771
+msgid "Waiting for PayPal..."
+msgstr "Čekání na PayPal ..."
+
+#: settings.php:1795
+msgid "Your Authorisation key is"
+msgstr ""
+
+#: settings.php:1824
+msgid ""
+"Upgrading to the Pro Version of the plugin allows you to add an application "
+"form to the loan calculator"
+msgstr ""
+
+#: settings.php:1824
+msgid ""
+"Visitors will be able to choose the loan they want and apply for that loan. "
+"You have a number of fields you can select and the option to send a "
+"confirmation email to the applicant"
+msgstr ""
+
+#: settings.php:1824
+msgid "You can review all applications and email the complete list to yourself"
+msgstr ""
+
+#: settings.php:1825
+msgid ""
+"The upgrade also lets you add headers to the form and labels to the sliders"
+msgstr ""
+"Aktualizace také umožňuje přidat hlavičky do formuláře a štítků na posuvníky"
+
+#: settings.php:1826
+msgid ""
+"You also have the option of calculating repayments using the annuity formula"
+msgstr ""
+
+#: settings.php:1827
+msgid "All for $20. Which I think is a bit of a bargain"
+msgstr ""
+
+#: settings.php:1828
+msgid ""
+"Activation is automatic, as soon as you have paid the plugin will upgrade "
+"allowing access to the registration form, autoresponder, and other options. "
+"You will also receive an email with your authorisation key that you can use "
+"on all applicable"
+msgstr ""
+
+#: settings.php:1830 settings.php:1832
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: settings.php:1831
+msgid "Enter the authorisation key below and click on the Activate button"
+msgstr ""
+
+#: settings.php:1835
+msgid "You already have the Pro version of the plugin"
+msgstr ""
+
+#: settings.php:1836
+msgid "Your authorisation key is"
+msgstr ""
+
+#: settings.php:1837
+msgid "Delete Key"
+msgstr "Odstranit klíč"
+
+#: messages.php:9
+msgid "All applications have been deleted"
+msgstr ""
+
+#: messages.php:22
+msgid "Selected applications have been deleted"
+msgstr ""
+
+#: messages.php:31
+msgid "Application list has been sent to"
+msgstr ""
+
+#: messages.php:58
+msgid "There are no applications"
+msgstr ""
+
+#: register.php:317
+msgid "New Loan Application from"
+msgstr ""
+
+#: register.php:317
+msgid "on"
+msgstr ""
+
+#: register.php:320
+msgid "Message was sent from"
+msgstr ""
+
+#: register.php:321
+msgid "Senders IP address"
+msgstr ""
+
+#: register.php:322
+msgid "URL"
+msgstr "URL"
+
+#: register.php:347
+msgid "New Loan Application"
+msgstr ""
+
+#: options.php:57
+msgid "This is a test to demonstrate the tooltip for the loan slider"
+msgstr ""
+
+#: options.php:65
+msgid "This is a test to demonstrate the tooltip for the term slider"
+msgstr "Toto je test, který demonstruje nástrojový popis posuvníka termínu"
+
+#: options.php:76
+msgid "This is a test to demonstrate the tooltip for the interest slider"
+msgstr ""
+
+#: options.php:79 options.php:104
+msgid "Loan Amount"
+msgstr ""
+
+#: options.php:81
+msgid "Total you will Pay: [total]"
+msgstr ""
+
+#: options.php:82
+msgid "Interest"
+msgstr ""
+
+#: options.php:84
+msgid "2% Interest"
+msgstr "2% úrok"
+
+#: options.php:85
+msgid "3% Interest"
+msgstr "3% úrok"
+
+#: options.php:89
+msgid "This is a test to demonstrate the tooltip for the output"
+msgstr ""
+
+#: options.php:94
+msgid "Your repayments are [amount] every [period] at [rate]"
+msgstr ""
+
+#: options.php:111
+msgid "Apply Now"
+msgstr "Použijte nyní"
+
+#: options.php:117
+msgid "Select Currency"
+msgstr ""
+
+#: options.php:137
+msgid "Convert to"
+msgstr "Převést na"
+
+#: options.php:140
+msgid "Standard Rate"
+msgstr ""
+
+#: options.php:142
+msgid "Student Rate"
+msgstr ""
+
+#: options.php:144
+msgid "Special Rate"
+msgstr ""
+
+#: options.php:266
+msgid "New registration for"
+msgstr ""
+
+#: options.php:267
+msgid "Apply for this Loan"
+msgstr ""
+
+#: options.php:268
+msgid "Enter your details below. All fields are required"
+msgstr "Níže zadejte své údaje. Všechna pole jsou povinná"
+
+#: options.php:269
+msgid "Thank you for applying"
+msgstr ""
+
+#: options.php:270
+msgid "We will be in contact soon"
+msgstr ""
+
+#: options.php:271 options.php:415
+msgid "Your Loan Application has been accepted"
+msgstr ""
+
+#: options.php:272 options.php:416
+msgid ""
+"<p>An application for a loan of £[amount] in the name of [name] has been "
+"received and is being processed.</p><p>A copy of the application and the "
+"contract has been sent to [email].</p><p>You will be informed by email once "
+"processing is complete. If successful the money will be transferred to your "
+"bank account.</p>"
+msgstr ""
+
+#: options.php:273
+msgid "Your Name"
+msgstr "Vaše jméno"
+
+#: options.php:274
+msgid "Email Address"
+msgstr "Adresa emailu"
+
+#: options.php:275
+msgid "Telephone Number"
+msgstr ""
+
+#: options.php:276
+msgid "Answer the sum: "
+msgstr ""
+
+#: options.php:282
+msgid "Fill in this field"
+msgstr ""
+
+#: options.php:284 options.php:412
+msgid "I agree to the Terms and Conditions"
+msgstr "Souhlasím s podmínkami"
+
+#: options.php:288 options.php:417
+msgid "There is an error with your Application"
+msgstr "Při použití aplikace došlo k chybě"
+
+#: options.php:289 options.php:418
+msgid "Please complete all fields"
+msgstr "Prosím vyplňte všechna pole"
+
+#: options.php:290
+msgid "Apply now"
+msgstr "Použijte nyní"
+
+#: options.php:296
+msgid "Send application details to your email address"
+msgstr ""
+
+#: options.php:302
+msgid "Reason for Loan:"
+msgstr ""
+
+#: options.php:303
+msgid "Buy Beer"
+msgstr "Nákup piva"
+
+#: options.php:304
+msgid "Buy Pizza"
+msgstr "Nákup pizzy"
+
+#: options.php:305
+msgid "Buy Tacos"
+msgstr "Nákup tacos"
+
+#: options.php:308
+msgid "Select an option"
+msgstr ""
+
+#: options.php:309
+msgid "Buy a Banjo,Ride a Donkey,Eat a Melon"
+msgstr ""
+
+#: options.php:311
+msgid "Choose one"
+msgstr "Vyber jeden"
+
+#: options.php:312
+msgid "Yes,No,Maybe"
+msgstr "Ano, Ne, Možná"
+
+#: options.php:314
+msgid ""
+"I consent to my data being retained by the site owner after the application "
+"has been processed."
+msgstr ""
+"Souhlasím se zachováním osobních údajů majitelem webu po zpracování této "
+"žádosti."
+
+#: options.php:391
+msgid "Loan Application"
+msgstr ""
+
+#: options.php:392
+msgid ""
+"Thank you for your application [name], we will be in contact soon. If you "
+"have any questions please reply to this email."
+msgstr ""
+
+#: options.php:394
+msgid "Your application details"
+msgstr "Podrobnosti o aplikaci"
+
+#: options.php:409 options.php:421
+msgid "Personal Details"
+msgstr ""
+
+#: options.php:410
+msgid ""
+"Enter your details below to complete your applicaton. Required fields are "
+"marked in green"
+msgstr ""
+
+#: options.php:411
+msgid "Complete Application"
+msgstr ""
+
+#: options.php:419
+msgid "New application for"
+msgstr ""
+
+#: options.php:420
+msgid "Loan Details"
+msgstr ""
+
+#: options.php:422
+msgid "Address"
+msgstr "Adresa"
+
+#: options.php:423
+msgid "Outgoings"
+msgstr ""
+
+#: options.php:424
+msgid "Employment and Income"
+msgstr ""
+
+#: options.php:425
+msgid "Additional Income"
+msgstr ""
+
+#: options.php:426
+msgid "Bank Details"
+msgstr "Bankovní detaily"
+
+#: options.php:427
+msgid "Document Upload"
+msgstr ""
+
+#: options.php:428
+msgid ""
+"You must provide proof of your identity and address. Select the document "
+"type and upload a scan of that document"
+msgstr ""
+
+#: options.php:429
+msgid "Validaton"
+msgstr "Ověření"
+
+#. Name of the plugin
+msgid "Quick Interest Slider"
+msgstr ""
+
+#. Description of the plugin
+msgid "Interest calculator with slider and multiple display options."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://loanpaymentplugin.com/"
+msgstr "http://loanpaymentplugin.com/"
+
+#. Author of the plugin
+msgid "aerin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://quick-plugins.com/"
+msgstr "http://quick-plugins.com/"

@@ -1,0 +1,72 @@
+.qis-options {margin-top: 12px;}
+.qis-options input[type=text], .qis-options textarea, .qis-options select, .qis-options #submit {width: 100%;box-sizing: border-box;}
+.qis-options p {margin: 4px 0;padding: 0;}
+.qis-options h2 {color: #005F6B;margin-top:0;}
+.qis-options th {text-align:left;}
+.qis-options td {vertical-align:middle;}
+
+
+#qis-widget table {margin-bottom: 20px;}
+#qis-widget td {border-top: 1px solid #005F6B;padding: 5px 10px 5px 0;max-width: 400px;vertical-align:top;}
+#qis-widget td b {color: #005F6B;}
+#qis-widget th {padding: 5px 10px 5px 0;max-width: 400px;text-align: left;color: #005F6B;}
+
+#currencies a {text-decoration: none;font-weight: 700;border: 1px solid #ccc; padding:2px;background: #FFF;}
+
+ul.qisinterest, ul.qisdownpayment {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	position: relative;
+	top: -1px;
+	padding: 0;
+	list-style: none;
+	margin: 0;
+}
+ul.qisinterest li, ul.qisdownpayment li { line-height: 30px; width: 150px; float: left; position: relative; top: 1px; padding: 0 10px; font-size: 15px; cursor: pointer; }
+ul.qisinterest *, ul.qisdownpayment * {  
+  -webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	 -khtml-user-select: none; /* Konqueror HTML */
+	   -moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* Internet Explorer/Edge */
+			user-select: none; /* Non-prefixed version, currently
+								  supported by Chrome and Opera */
+}
+ul.qisinterest li input[type=checkbox] { position: relative; top: 0px;}
+ul.qisinterest li input[type=checkbox]:checked:before { font-size: 30px; position:relative; top: 1px; }
+ul.qisinterest li.selected { border-width: 1px 1px 0 1px; border-color: grey; border-style: solid; background-color: silver; }
+div.qis-interest { display: none; }
+#qis-interest-div { border: 1px solid grey; background-color: silver; padding: 10px; display: none; }
+
+ul.qisdownpayment li input[type=checkbox] { position: relative; top: 0px;}
+ul.qisdownpayment li input[type=checkbox]:checked:before { font-size: 30px; position:relative; top: 1px; }
+ul.qisdownpayment li.selected { border-width: 1px 1px 0 1px; border-color: grey; border-style: solid; background-color: silver; }
+div.qis-downpayment { display: none; }
+#qis-downpayment-div { border: 1px solid grey; background-color: silver; padding: 10px; display: none; }
+
+.qis-tabination ul { 
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	position: relative;
+	top: -1px;
+	padding: 0;
+	list-style: none;
+	margin: 0;
+}
+.qis-tabination ul * {
+  -webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	 -khtml-user-select: none; /* Konqueror HTML */
+	   -moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* Internet Explorer/Edge */
+			user-select: none; /* Non-prefixed version, currently
+								  supported by Chrome and Opera */
+}
+.qis-tabination ul li { line-height: 30px; width: 150px; float: left; position: relative; top: 1px; padding: 0 10px; font-size: 15px; cursor: pointer; }
+.qis-tabination ul li input[type=checkbox] { position: relative; top: 0;}
+.qis-tabination ul li input[type=checkbox]:checked:before { font-size: 30px; position: relative; top: 1px; }
+.qis-tabination ul li.selected { border-width: 1px 1px 0 1px; border-color: grey; border-style: solid; background-color: silver; }
+.qis-tabination ul li .blocker { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; }
+.qis-tabination-tab { border: 1px solid grey; padding: 10px; display: none; background-color: silver; }

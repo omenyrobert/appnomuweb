@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Interest Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-26 14:45+0000\n"
+"PO-Revision-Date: 2017-11-26 15:02+0000\n"
+"Last-Translator: Graham <graham@aerin.co.uk>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: quick-interest-slider.php:34
+msgid "Redirecting...."
+msgstr ""
+
+#: quick-interest-slider.php:317 settings.php:22
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: quick-interest-slider.php:404
+msgid "Loan Applications"
+msgstr ""
+
+#: quick-interest-slider.php:425 settings.php:260
+msgid "Amount"
+msgstr ""
+
+#: quick-interest-slider.php:426
+msgid "Date Sent"
+msgstr ""
+
+#: quick-interest-slider.php:530
+msgid "Thank for upgrading. Your authorisation key is"
+msgstr ""
+
+#: quick-interest-slider.php:531
+msgid "Quick Plugins Authorisation Key"
+msgstr ""
+
+#: settings.php:23
+msgid "Styling"
+msgstr "Estilo"
+
+#: settings.php:24 settings.php:719
+msgid "Application Form"
+msgstr "Formulario de aplicación"
+
+#: settings.php:25
+msgid "Auto Responder"
+msgstr ""
+
+#: settings.php:26
+msgid "Upgrade"
+msgstr ""
+
+#: settings.php:38
+msgid "Interest Calculator"
+msgstr ""
+
+#: settings.php:151
+msgid "The settings have been updated"
+msgstr ""
+
+#: settings.php:156
+msgid "The settings have been reset"
+msgstr ""
+
+#: settings.php:190
+msgid "Using the Plugin"
+msgstr "Usando el complemento"
+
+#: settings.php:191
+msgid "Add the form to a post or page using the shortcode [qis]"
+msgstr ""
+"Agregue el formulario a una publicación o página utilizando el código "
+"abreviado [qis]"
+
+#: settings.php:191
+msgid "See all the shortcode attributes"
+msgstr "Ver todos los atributos de shortcode"
+
+#: settings.php:192 settings.php:722 settings.php:1124 settings.php:1226
+msgid "Upgrade to Pro"
+msgstr "Actualiza a Pro"
+
+#: settings.php:192
+msgid "for more output options and a loan application form"
+msgstr ""
+"para obtener más opciones de salida y un formulario de solicitud de préstamo"
+
+#: settings.php:195
+msgid "Form Header"
+msgstr ""
+
+#: settings.php:201
+msgid "Currency"
+msgstr ""
+
+#: settings.php:202
+msgid "Symbol"
+msgstr ""
+
+#: settings.php:203
+msgid "Currency Position"
+msgstr ""
+
+#: settings.php:203
+msgid "Before"
+msgstr ""
+
+#: settings.php:203
+msgid "After"
+msgstr ""
+
+#: settings.php:204
+msgid "Thousands separator"
+msgstr ""
+
+#: settings.php:210
+msgid "Amount Slider Settings"
+msgstr ""
+
+#: settings.php:212
+msgid "Amount Slider Label"
+msgstr ""
+
+#: settings.php:214
+msgid "Minimum value"
+msgstr ""
+
+#: settings.php:215
+msgid "Maximum value"
+msgstr ""
+
+#: settings.php:216
+msgid "Initial value"
+msgstr ""
+
+#: settings.php:217 settings.php:233
+msgid "Step"
+msgstr ""
+
+#: settings.php:221
+msgid "Term Slider Settings"
+msgstr ""
+
+#: settings.php:222
+msgid "Use Term slider"
+msgstr ""
+
+#: settings.php:224
+msgid "Term Slider Label"
+msgstr ""
+
+#: settings.php:226 options.php:27
+msgid "Loan Period"
+msgstr ""
+
+#: settings.php:226
+msgid "Days"
+msgstr ""
+
+#: settings.php:227
+msgid "Weeks"
+msgstr ""
+
+#: settings.php:228
+msgid "Months"
+msgstr ""
+
+#: settings.php:229
+msgid "Years"
+msgstr ""
+
+#: settings.php:230
+msgid "Minimum term"
+msgstr ""
+
+#: settings.php:231
+msgid "Maximum term"
+msgstr ""
+
+#: settings.php:232
+msgid "Initial term"
+msgstr ""
+
+#: settings.php:234
+msgid "Term labels"
+msgstr ""
+
+#: settings.php:234
+msgid "Singular"
+msgstr ""
+
+#: settings.php:235
+msgid "Plural"
+msgstr ""
+
+#: settings.php:235
+msgid "This will replace the word"
+msgstr ""
+
+#: settings.php:235
+msgid "with your own labels"
+msgstr ""
+
+#: settings.php:239
+msgid "Input Options"
+msgstr ""
+
+#: settings.php:240
+msgid "Slider Values Only"
+msgstr ""
+
+#: settings.php:241
+msgid "Text Input Only"
+msgstr ""
+
+#: settings.php:242
+msgid "Slider and Text Inputs"
+msgstr ""
+
+#: settings.php:246
+msgid "Interest Rates"
+msgstr ""
+
+#: settings.php:252
+msgid "Rate"
+msgstr ""
+
+#: settings.php:253
+msgid "Trigger by:"
+msgstr ""
+
+#: settings.php:259
+msgid "Period"
+msgstr ""
+
+#: settings.php:300
+msgid "Interest Type"
+msgstr ""
+
+#: settings.php:300 settings.php:320
+msgid "Fixed"
+msgstr ""
+
+#: settings.php:301
+msgid "Simple"
+msgstr ""
+
+#: settings.php:302
+msgid "Compound"
+msgstr ""
+
+#: settings.php:303
+msgid "Amortization"
+msgstr ""
+
+#: settings.php:304
+msgid "Interest type explanations"
+msgstr ""
+
+#: settings.php:305
+msgid "Use APR"
+msgstr ""
+
+#: settings.php:307
+msgid "Interest is normally calculated as APR"
+msgstr ""
+
+#: settings.php:307
+msgid ""
+"If you want to calculate interest by the period set in the Term Slider "
+"Settings uncheck this option"
+msgstr ""
+
+#: settings.php:308
+msgid "Repayment Divider"
+msgstr ""
+
+#: settings.php:309
+msgid ""
+"Use this if you want to display the repayment amount in a different period "
+"to that in the slider"
+msgstr ""
+
+#: settings.php:309
+msgid ""
+"For example, if you have a loan period in years but want to show the "
+"repayment amount per month the divider would be 12"
+msgstr ""
+
+#: settings.php:309
+msgid "For repayment each week on a monthly loan the divider would be 4.3"
+msgstr ""
+
+#: settings.php:311
+msgid "Fixed Amount Addition"
+msgstr ""
+
+#: settings.php:312
+msgid ""
+"If you add an amount in the box, the interest rates will be disabled and the "
+"amount will be added to each period"
+msgstr ""
+
+#: settings.php:312
+msgid ""
+"For example, a loan of £1200 over 12 months with £10 in the box would be a "
+"monthly repayment of £110"
+msgstr ""
+
+#: settings.php:312
+msgid "£1200/12 = £100. £100 + £10 = £110"
+msgstr ""
+
+#: settings.php:317
+msgid "Processing Fee"
+msgstr ""
+
+#: settings.php:319
+msgid "before interest"
+msgstr ""
+
+#: settings.php:319
+msgid "after interest"
+msgstr ""
+
+#: settings.php:320
+msgid "Processing fee"
+msgstr ""
+
+#: settings.php:320
+msgid "Percent"
+msgstr ""
+
+#: settings.php:321
+msgid "Minimum fee"
+msgstr ""
+
+#: settings.php:321
+msgid "Maximum fee"
+msgstr ""
+
+#: settings.php:325
+msgid "Output Options"
+msgstr ""
+
+#: settings.php:327
+msgid "Show amount/term above slider"
+msgstr ""
+
+#: settings.php:327
+msgid "Use moving bubble"
+msgstr ""
+
+#: settings.php:328
+msgid "Show min and max values above slider"
+msgstr ""
+
+#: settings.php:329
+msgid "Hide labels on slider"
+msgstr ""
+
+#: settings.php:329
+msgid "eg: 100 to $100 or 7 not 7 months"
+msgstr ""
+
+#: settings.php:330
+msgid "Show step markers on slider"
+msgstr ""
+
+#: settings.php:331
+msgid "Small steps will mean lots of marker lines. Use with caution"
+msgstr ""
+
+#: settings.php:333
+msgid "Display repayment terms"
+msgstr ""
+
+#: settings.php:335
+msgid "Display total to pay below slider"
+msgstr ""
+
+#: settings.php:337
+msgid "Use &lt;br&gt; or &lt;p&gt;...&lt;/p&gt; to add a new line"
+msgstr ""
+
+#: settings.php:337
+msgid "HTML styling is allowed"
+msgstr ""
+
+#: settings.php:338
+msgid "The output messages have these optional shortcodes"
+msgstr ""
+
+#: settings.php:339
+msgid "Decimals"
+msgstr ""
+
+#: settings.php:339
+msgid "None"
+msgstr ""
+
+#: settings.php:340
+msgid "Floating"
+msgstr ""
+
+#: settings.php:341
+msgid "Always on"
+msgstr ""
+
+#: settings.php:343
+msgid "Hide all output messages if zero value in amount or term"
+msgstr ""
+
+#: settings.php:347
+msgid "Apply Now Button"
+msgstr ""
+
+#: settings.php:348
+msgid "Add an Apply now button to the form"
+msgstr ""
+
+#: settings.php:349
+msgid "This does not process the form data"
+msgstr ""
+
+#: settings.php:349
+msgid "All the button does is send the visitor to the URL given below"
+msgstr ""
+
+#: settings.php:350
+msgid "Apply now label"
+msgstr ""
+
+#: settings.php:351
+msgid "Form action URL"
+msgstr ""
+
+#: settings.php:352
+msgid "Append query to URL"
+msgstr ""
+
+#: settings.php:353
+msgid "The query is structured as follows"
+msgstr ""
+
+#: settings.php:353
+msgid "?amount=0000&period=00"
+msgstr ""
+
+#: settings.php:430
+msgid "Form Border"
+msgstr ""
+
+#: settings.php:431
+msgid "No border"
+msgstr ""
+
+#: settings.php:432
+msgid "Plain Border"
+msgstr ""
+
+#: settings.php:433
+msgid "Round Corners"
+msgstr ""
+
+#: settings.php:434
+msgid "Shadowed Border"
+msgstr ""
+
+#: settings.php:435
+msgid "Rounded Shadowed Border"
+msgstr ""
+
+#: settings.php:439
+msgid "Border Thickness"
+msgstr ""
+
+#: settings.php:444
+msgid "Border Color"
+msgstr ""
+
+#: settings.php:449
+msgid "Background Colour"
+msgstr ""
+
+#: settings.php:450
+msgid "White"
+msgstr ""
+
+#: settings.php:451
+msgid "Use theme colours"
+msgstr ""
+
+#: settings.php:456
+msgid "Background Image"
+msgstr ""
+
+#: settings.php:460
+msgid "Leave blank to use plain colours"
+msgstr ""
+
+#: settings.php:469
+msgid "Slider Styles"
+msgstr ""
+
+#: settings.php:474
+msgid "Slider output"
+msgstr ""
+
+#: settings.php:478 settings.php:492 settings.php:562 settings.php:576
+msgid "Font Size"
+msgstr ""
+
+#: settings.php:483 settings.php:497 settings.php:567 settings.php:581
+msgid "Font Colour"
+msgstr ""
+
+#: settings.php:488
+msgid "Max and min values"
+msgstr ""
+
+#: settings.php:502
+msgid "Slider Bar"
+msgstr ""
+
+#: settings.php:506 settings.php:540
+msgid "Thickness"
+msgstr ""
+
+#: settings.php:511
+msgid "Normal Background"
+msgstr ""
+
+#: settings.php:516
+msgid "Revealed Background"
+msgstr ""
+
+#: settings.php:521
+msgid "Square Slider"
+msgstr ""
+
+#: settings.php:526
+msgid "Slider Handle"
+msgstr ""
+
+#: settings.php:530
+msgid "Background"
+msgstr ""
+
+#: settings.php:535
+msgid "Border colour"
+msgstr ""
+
+#: settings.php:545
+msgid "Corners"
+msgstr ""
+
+#: settings.php:554
+msgid "Output Styles"
+msgstr ""
+
+#: settings.php:558
+msgid "Interest/Repayments"
+msgstr ""
+
+#: settings.php:572 options.php:30
+msgid "Total to Pay"
+msgstr ""
+
+#: settings.php:657
+msgid "The registration form settings have been updated"
+msgstr ""
+
+#: settings.php:661
+msgid "The registration form settings have been reset"
+msgstr ""
+
+#: settings.php:720
+msgid "Add a form to the loan calculator to allow visitors to apply for a loan"
+msgstr ""
+
+#: settings.php:721
+msgid ""
+"The application form is only availabile in the pro version of the plugin"
+msgstr ""
+
+#: settings.php:730
+msgid "Usage"
+msgstr ""
+
+#: settings.php:734
+msgid "Enable Application Form"
+msgstr ""
+
+#: settings.php:739
+msgid "Your Email Address"
+msgstr ""
+
+#: settings.php:740
+msgid "This is where registration notifications will be sent"
+msgstr ""
+
+#: settings.php:752
+msgid "Form Headers"
+msgstr ""
+
+#: settings.php:755
+msgid "Form title"
+msgstr ""
+
+#: settings.php:759
+msgid "Form blurb"
+msgstr ""
+
+#: settings.php:762
+msgid "Submit Button"
+msgstr ""
+
+#: settings.php:773
+msgid "Check those fields you want to use. Drag and drop to change the order"
+msgstr ""
+
+#: settings.php:787
+msgid "Use"
+msgstr ""
+
+#: settings.php:788
+msgid "Field"
+msgstr ""
+
+#: settings.php:789
+msgid "Label"
+msgstr ""
+
+#: settings.php:798
+msgid "Name"
+msgstr ""
+
+#: settings.php:805
+msgid "Email"
+msgstr ""
+
+#: settings.php:812
+msgid "Telephone"
+msgstr ""
+
+#: settings.php:819 options.php:160
+msgid "Message"
+msgstr ""
+
+#: settings.php:826
+msgid "Captcha"
+msgstr ""
+
+#: settings.php:827
+msgid "Displays a simple maths captcha to confuse the spammers"
+msgstr ""
+
+#: settings.php:833
+msgid "Copy Message"
+msgstr ""
+
+#: settings.php:835
+msgid "Set default 'Copy Message' field to 'checked'"
+msgstr ""
+
+#: settings.php:840
+msgid "Additional Info (displays as plain text)"
+msgstr ""
+
+#: settings.php:847
+msgid "Checkboxes"
+msgstr ""
+
+#: settings.php:856
+msgid "Terms and Conditions checkbox"
+msgstr ""
+
+#: settings.php:858
+msgid "Open link in new Tab/Window"
+msgstr ""
+
+#: settings.php:863
+msgid "Dropdown"
+msgstr ""
+
+#: settings.php:865
+msgid "Include label in dropdown list"
+msgstr ""
+
+#: settings.php:866
+msgid "Show as label above dropdown"
+msgstr ""
+
+#: settings.php:904
+msgid "Field Label Locations"
+msgstr ""
+
+#: settings.php:905
+msgid "Reduce in size on focus"
+msgstr ""
+
+#: settings.php:905
+msgid "Placeholders"
+msgstr ""
+
+#: settings.php:905
+msgid "Above Input Fields"
+msgstr ""
+
+#: settings.php:911
+msgid "Tracking"
+msgstr ""
+
+#: settings.php:912
+msgid "Add tracking information to the messages you receive"
+msgstr ""
+
+#: settings.php:916
+msgid "Show page title"
+msgstr ""
+
+#: settings.php:920
+msgid "Show IP address"
+msgstr ""
+
+#: settings.php:924
+msgid "Show URL"
+msgstr ""
+
+#: settings.php:935
+msgid "Error and Thank-you messages"
+msgstr ""
+
+#: settings.php:938
+msgid "Thank you message title"
+msgstr ""
+
+#: settings.php:943
+msgid "Thank you message blurb"
+msgstr ""
+
+#: settings.php:948
+msgid "Error Title"
+msgstr ""
+
+#: settings.php:953
+msgid "Error Message"
+msgstr ""
+
+#: settings.php:963
+msgid "Redirecton"
+msgstr ""
+
+#: settings.php:964
+msgid "Redirect to a this URL after form submission:"
+msgstr ""
+
+#: settings.php:969
+msgid "Save Changes"
+msgstr ""
+
+#: settings.php:970
+msgid "Reset"
+msgstr ""
+
+#: settings.php:970
+msgid "Are you sure you want to reset the registration form?"
+msgstr ""
+
+#: settings.php:974
+msgid "Application Form Styling"
+msgstr ""
+
+#: settings.php:982
+msgid "Buttons"
+msgstr ""
+
+#: settings.php:986
+msgid "Button Colour"
+msgstr ""
+
+#: settings.php:991
+msgid "Button Background"
+msgstr ""
+
+#: settings.php:996
+msgid "Button Hover"
+msgstr ""
+
+#: settings.php:1047
+msgid "Margins and Padding"
+msgstr ""
+
+#: settings.php:1121
+msgid "Autoresponder"
+msgstr ""
+
+#: settings.php:1122
+msgid ""
+"The autoresponder will send a personalised email to applicants with details "
+"of their application"
+msgstr ""
+
+#: settings.php:1123
+msgid "The autoresponder is only availabile in the pro version of the plugin"
+msgstr ""
+
+#: settings.php:1126
+msgid "Auto responder settings"
+msgstr ""
+
+#: settings.php:1127
+msgid ""
+"The Auto Responder will send an email to the Applicant if enabled or if they "
+"choose the option on the application form to recieve a copy of their details"
+msgstr ""
+
+#: settings.php:1129
+msgid "Enable Auto Responder"
+msgstr ""
+
+#: settings.php:1130
+msgid "From Name:"
+msgstr ""
+
+#: settings.php:1130
+msgid "Defaults to your"
+msgstr ""
+
+#: settings.php:1130
+msgid "Site Title"
+msgstr ""
+
+#: settings.php:1130 settings.php:1132
+msgid "if left blank"
+msgstr ""
+
+#: settings.php:1132
+msgid "From Email:"
+msgstr ""
+
+#: settings.php:1132
+msgid "Defaults to the"
+msgstr ""
+
+#: settings.php:1132
+msgid "Admin Email"
+msgstr ""
+
+#: settings.php:1134
+msgid "Subject:"
+msgstr ""
+
+#: settings.php:1138
+msgid "You can use the following shortcodes in the message body:"
+msgstr ""
+
+#: settings.php:1140
+msgid "Replacement Text"
+msgstr ""
+
+#: settings.php:1141
+msgid "The registrants name from the form"
+msgstr ""
+
+#: settings.php:1142
+msgid "The loan amount"
+msgstr ""
+
+#: settings.php:1143
+msgid "The replayment period"
+msgstr ""
+
+#: settings.php:1144
+msgid "The date the application was made"
+msgstr ""
+
+#: settings.php:1145
+msgid "The interest rate"
+msgstr ""
+
+#: settings.php:1146
+msgid "The repayment amount"
+msgstr ""
+
+#: settings.php:1147
+msgid "The total to be repaid"
+msgstr ""
+
+#: settings.php:1149
+msgid "Add the application details to the email"
+msgstr ""
+
+#: settings.php:1150
+msgid "Application details blurb"
+msgstr ""
+
+#: settings.php:1192
+msgid "Your Authorisation key is"
+msgstr ""
+
+#: settings.php:1221
+msgid ""
+"Upgrading to the Pro Version of the plugin allows you to add an application "
+"form to the loan calculator"
+msgstr ""
+
+#: settings.php:1221
+msgid ""
+"Visitors will be able to choose the loan they want and apply for that loan. "
+"You have a number of fields you can select and the option to send a "
+"confirmation email to the applicant"
+msgstr ""
+
+#: settings.php:1221
+msgid "You can review all applications and email the complete list to yourself"
+msgstr ""
+
+#: settings.php:1222
+msgid ""
+"The upgrade also lets you add headers to the form and labels to the sliders"
+msgstr ""
+
+#: settings.php:1223
+msgid ""
+"You also have the option of calculating repayments using the annuity formula"
+msgstr ""
+
+#: settings.php:1224
+msgid "All for $20. Which I think is a bit of a bargain"
+msgstr ""
+
+#: settings.php:1225
+msgid ""
+"Activation is automatic, as soon as you have paid the plugin will upgrade "
+"allowing access to the registration form, autoresponder, and other options. "
+"You will also receive an email with your authorisation key that you can use "
+"on all applicable"
+msgstr ""
+
+#: settings.php:1227 settings.php:1229
+msgid "Activate"
+msgstr ""
+
+#: settings.php:1228
+msgid "Enter the authorisation key below and click on the Activate button"
+msgstr ""
+
+#: settings.php:1232
+msgid "You already have the Pro version of the plugin"
+msgstr ""
+
+#: settings.php:1233
+msgid "Your authorisation key is"
+msgstr ""
+
+#: settings.php:1234
+msgid "Delete Key"
+msgstr ""
+
+#: messages.php:7
+msgid "All applications have been deleted"
+msgstr ""
+
+#: messages.php:20
+msgid "Selected applications have been deleted"
+msgstr ""
+
+#: messages.php:31
+msgid "Application list has been sent to"
+msgstr ""
+
+#: messages.php:58
+msgid "There are no Loan Applications"
+msgstr ""
+
+#: register.php:238 register.php:268
+msgid "New Loan Application"
+msgstr ""
+
+#: register.php:239
+msgid "New Loan Application from"
+msgstr ""
+
+#: register.php:239
+msgid "on"
+msgstr ""
+
+#: register.php:242
+msgid "Message was sent from"
+msgstr ""
+
+#: register.php:243
+msgid "Senders IP address"
+msgstr ""
+
+#: register.php:244
+msgid "URL"
+msgstr ""
+
+#: options.php:26
+msgid "Loan Amount"
+msgstr ""
+
+#: options.php:28
+msgid "Total you will Pay: [total]"
+msgstr ""
+
+#: options.php:29
+msgid "Interest"
+msgstr ""
+
+#: options.php:31
+msgid "2% Interest"
+msgstr ""
+
+#: options.php:32
+msgid "3% Interest"
+msgstr ""
+
+#: options.php:40
+msgid "Your repayments are [amount] every [period] at [rate]"
+msgstr ""
+
+#: options.php:152
+msgid "New registration for"
+msgstr ""
+
+#: options.php:153
+msgid "Apply for this Loan"
+msgstr ""
+
+#: options.php:154
+msgid "Enter your details below. All fields are required"
+msgstr ""
+
+#: options.php:155
+msgid "Thank you for applying"
+msgstr ""
+
+#: options.php:156
+msgid "We will be in contact soon"
+msgstr ""
+
+#: options.php:157
+msgid "Your Name"
+msgstr ""
+
+#: options.php:158
+msgid "Email Address"
+msgstr ""
+
+#: options.php:159
+msgid "Telephone Number"
+msgstr ""
+
+#: options.php:161
+msgid "Fill in this field"
+msgstr ""
+
+#: options.php:163
+msgid "I agree to the Terms and Conditions"
+msgstr ""
+
+#: options.php:167
+msgid "There is an error with your Application"
+msgstr ""
+
+#: options.php:168
+msgid "Please complete all fields"
+msgstr ""
+
+#: options.php:169
+msgid "Apply now"
+msgstr ""
+
+#: options.php:175
+msgid "Send application details to your email address"
+msgstr ""
+
+#: options.php:181
+msgid "Reason for Loan:"
+msgstr ""
+
+#: options.php:182
+msgid "Buy Beer"
+msgstr ""
+
+#: options.php:183
+msgid "Buy Pizza"
+msgstr ""
+
+#: options.php:184
+msgid "Buy Tacos"
+msgstr ""
+
+#: options.php:187
+msgid "Select an option"
+msgstr ""
+
+#: options.php:188
+msgid "Buy a Banjo,Ride a Donkey,Eat a Melon"
+msgstr ""
+
+#: options.php:249
+msgid "Loan Application"
+msgstr ""
+
+#: options.php:250
+msgid ""
+"Thank you for your application [name], we will be in contact soon. If you "
+"have any questions please reply to this email."
+msgstr ""
+
+#: options.php:252
+msgid "Your application details"
+msgstr ""
+
+#. Name of the plugin
+msgid "Quick Interest Slider"
+msgstr ""
+
+#. Description of the plugin
+msgid "Interest calculator with slider and multiple display options."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://loanpaymentplugin.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "aerin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://quick-plugins.com/"
+msgstr ""
